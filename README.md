@@ -1,6 +1,6 @@
 # 🇮🇹 Italia Corpus
 
-**Il corpus della legislazione italiana in Markdown — aggiornato quotidianamente.**
+**Un corpus verificabile della legislazione italiana in Markdown, derivato dalle collezioni disponibili su Normattiva.**
 
 [License: MIT](https://opensource.org/licenses/MIT)
 [Data: Public Domain](https://www.normattiva.it)
@@ -12,7 +12,7 @@
 
 | 📄 Atti   | 🗂️ Collezioni     | 💾 Dimensione | 🔄 Aggiornamenti |
 | --------- | ------------------ | ------------- | ---------------- |
-| > 280.000 | 23 (sync completo) | GBs           | Ogni 24 ore      |
+| Vedi `manifest.json` | Vedi `manifest.json` | Snapshot scaricabili | Verifica quotidiana |
 
 
 [🇬🇧 English](#english) · [🇮🇹 Italiano](#italiano)
@@ -23,9 +23,9 @@
 
 ### What this project is
 
-**Italia Corpus Legale** is a public dataset that collects all Italian legislation published on [Normattiva](https://www.normattiva.it) and distributes it as **Markdown** — ready for language models, RAG pipelines, researchers, and anyone who needs structured, machine-readable legal text.
+**Italia Corpus Legale** is a public dataset derived from the collections made available by [Normattiva](https://www.normattiva.it) and distributed as **Markdown**. Coverage is measured in `manifest.json`; it is not described as complete unless the manifest proves it.
 
-> Each act is one file. Each legislative update is a commit.
+> Each canonical act is one file. Every published commit is one fully validated snapshot.
 
 ---
 
@@ -192,9 +192,9 @@ If this project helps you, **leave a star** ⭐ — it helps more developers fin
 
 ### Cos'è questo progetto
 
-**Italia Corpus Legale** è un dataset pubblico che raccoglie l'intera legislazione italiana pubblicata su [Normattiva](https://www.normattiva.it) e la distribuisce in formato **Markdown** — pronto per essere consumato da modelli di linguaggio, pipeline RAG, ricercatori e chiunque abbia bisogno di testo legale strutturato e machine-readable.
+**Italia Corpus Legale** è un dataset pubblico derivato dalle collezioni rese disponibili da [Normattiva](https://www.normattiva.it) e distribuito in formato **Markdown**. La copertura effettiva è misurata in `manifest.json` e non viene dichiarata completa senza verifica.
 
-> Ogni norma è un file. Ogni aggiornamento normativo è un commit.
+> Ogni atto canonico è un file. Ogni commit pubblicato è uno snapshot completo e validato.
 
 ---
 
