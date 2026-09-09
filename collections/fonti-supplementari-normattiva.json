@@ -1,0 +1,8 @@
+{
+  "schema_version": 4,
+  "name": "Fonti supplementari Normattiva",
+  "urns": [
+    "urn:nir:stato:legge:1988-08-23;400",
+    "urn:nir:stato:legge:1990-08-07;241"
+  ]
+}

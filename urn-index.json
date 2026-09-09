@@ -952056,6 +952056,12 @@
         "urn": "urn:nir:stato:decreto.legge:1988-08-31;383"
       }
     ],
+    "088G0458": [
+      {
+        "path": "atti/088G0458.md",
+        "urn": "urn:nir:stato:legge:1988-08-23;400"
+      }
+    ],
     "088G0459": [
       {
         "path": "atti/088G0459.md",
@@ -967720,6 +967726,12 @@
       {
         "path": "atti/090G0290.md",
         "urn": "urn:nir:ministero.sanita:decreto.ministeriale:1990-08-02;258"
+      }
+    ],
+    "090G0294": [
+      {
+        "path": "atti/090G0294.md",
+        "urn": "urn:nir:stato:legge:1990-08-07;241"
       }
     ],
     "090G0295": [
@@ -1050304,6 +1050316,18 @@
       {
         "path": "atti/26G00170.md",
         "urn": "urn:nir:stato:decreto.legislativo:2026-08-07;149"
+      }
+    ],
+    "26G00171": [
+      {
+        "path": "atti/26G00171.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-06-19;155"
+      }
+    ],
+    "26G00172": [
+      {
+        "path": "atti/26G00172.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2026-07-07;156"
       }
     ],
     "6100001R": [
@@ -1152655,6 +1152679,10 @@
     "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2026-06-12;150": {
       "codice_redazionale": "26G00159",
       "path": "atti/26G00159.md"
+    },
+    "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2026-07-07;156": {
+      "codice_redazionale": "26G00172",
+      "path": "atti/26G00172.md"
     },
     "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-01-01;122": {
       "codice_redazionale": "048U0122",
@@ -1343680,6 +1343708,10 @@
       "codice_redazionale": "26G00135",
       "path": "atti/26G00135.md"
     },
+    "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-06-19;155": {
+      "codice_redazionale": "26G00171",
+      "path": "atti/26G00171.md"
+    },
     "urn:nir:stato:decreto.legge.luogotenenziale:1915-05-30;853": {
       "codice_redazionale": "015U0853",
       "path": "atti/015U0853.md"
@@ -1486560,6 +1486592,10 @@
       "codice_redazionale": "088G0448",
       "path": "atti/088G0448.md"
     },
+    "urn:nir:stato:legge:1988-08-23;400": {
+      "codice_redazionale": "088G0458",
+      "path": "atti/088G0458.md"
+    },
     "urn:nir:stato:legge:1988-09-30;425": {
       "codice_redazionale": "088G0486",
       "path": "atti/088G0486.md"
@@ -1487547,6 +1487583,10 @@
     "urn:nir:stato:legge:1990-08-07;234": {
       "codice_redazionale": "090G0284",
       "path": "atti/090G0284.md"
+    },
+    "urn:nir:stato:legge:1990-08-07;241": {
+      "codice_redazionale": "090G0294",
+      "path": "atti/090G0294.md"
     },
     "urn:nir:stato:legge:1990-08-07;242": {
       "codice_redazionale": "090G0295",
