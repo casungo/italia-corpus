@@ -2,7 +2,12 @@
   "schema_version": 4,
   "name": "Fonti supplementari Normattiva",
   "urns": [
+    "urn:nir:stato:legge:1931-06-15;889",
+    "urn:nir:stato:legge:1962-12-06;1643",
+    "urn:nir:stato:legge:1981-11-24;689",
     "urn:nir:stato:legge:1988-08-23;400",
-    "urn:nir:stato:legge:1990-08-07;241"
+    "urn:nir:stato:legge:1990-08-07;241",
+    "urn:nir:stato:legge:2009-12-31;196",
+    "urn:nir:stato:regio.decreto.legge:1935-06-20;1071"
   ]
 }

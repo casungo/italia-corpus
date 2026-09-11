@@ -3022,12 +3022,6 @@
         "urn": "urn:nir:stato:decreto.legislativo:2000-03-28;76"
       }
     ],
-    "000G0120": [
-      {
-        "path": "atti/000G0120.md",
-        "urn": "urn:nir:stato:legge:2000-03-31;78"
-      }
-    ],
     "000G0121": [
       {
         "path": "atti/000G0121.md",
@@ -8248,12 +8242,6 @@
         "urn": "urn:nir:stato:legge:2001-03-29;135"
       }
     ],
-    "001G0189": [
-      {
-        "path": "atti/001G0189.md",
-        "urn": "urn:nir:stato:legge:2001-03-24;127"
-      }
-    ],
     "001G0190": [
       {
         "path": "atti/001G0190.md",
@@ -9764,12 +9752,6 @@
       {
         "path": "atti/001G0491.md",
         "urn": "urn:nir:stato:legge:2001-12-14;432"
-      }
-    ],
-    "001G0492": [
-      {
-        "path": "atti/001G0492.md",
-        "urn": "urn:nir:stato:legge:2001-12-21;443"
       }
     ],
     "001G0493": [
@@ -13918,12 +13900,6 @@
         "urn": "urn:nir:ministero.economia.e.finanze:decreto:2002-05-17;127"
       }
     ],
-    "002G0159": [
-      {
-        "path": "atti/002G0159.md",
-        "urn": "urn:nir:stato:legge:2002-07-06;137"
-      }
-    ],
     "002G0160": [
       {
         "path": "atti/002G0160.md",
@@ -14056,12 +14032,6 @@
         "urn": "urn:nir:stato:legge:2002-07-11;160"
       }
     ],
-    "002G0186": [
-      {
-        "path": "atti/002G0186.md",
-        "urn": "urn:nir:stato:legge:2002-07-19;146"
-      }
-    ],
     "002G0188": [
       {
         "path": "atti/002G0188.md",
@@ -14180,12 +14150,6 @@
       {
         "path": "atti/002G0209.md",
         "urn": "urn:nir:stato:decreto.legge:2002-08-08;187"
-      }
-    ],
-    "002G0211": [
-      {
-        "path": "atti/002G0211.md",
-        "urn": "urn:nir:stato:legge:2002-07-30;180"
       }
     ],
     "002G0215": [
@@ -18816,12 +18780,6 @@
       {
         "path": "atti/003G0165.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-05-15;144"
-      }
-    ],
-    "003G0168": [
-      {
-        "path": "atti/003G0168.md",
-        "urn": "urn:nir:stato:legge:2003-06-18;145"
       }
     ],
     "003G0170": [
@@ -29390,12 +29348,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2005-03-01;51"
       }
     ],
-    "005G0080": [
-      {
-        "path": "atti/005G0080.md",
-        "urn": "urn:nir:stato:legge:2005-03-31;56"
-      }
-    ],
     "005G0082": [
       {
         "path": "atti/005G0082.md",
@@ -30072,12 +30024,6 @@
       {
         "path": "atti/005G0224.md",
         "urn": "urn:nir:ministero.salute:decreto:2005-08-09;199"
-      }
-    ],
-    "005G0225": [
-      {
-        "path": "atti/005G0225.md",
-        "urn": "urn:nir:stato:legge:2005-11-04;230"
       }
     ],
     "005G0226": [
@@ -40734,12 +40680,6 @@
         "urn": "urn:nir:ministero.solidarieta.sociale:decreto:2007-05-04;80"
       }
     ],
-    "007G0095": [
-      {
-        "path": "atti/007G0095.md",
-        "urn": "urn:nir:stato:legge:2007-06-20;77"
-      }
-    ],
     "007G0096": [
       {
         "path": "atti/007G0096.md",
@@ -41320,12 +41260,6 @@
       {
         "path": "atti/007G0204.md",
         "urn": "urn:nir:stato:legge:2007-10-17;188"
-      }
-    ],
-    "007G0205": [
-      {
-        "path": "atti/007G0205.md",
-        "urn": "urn:nir:stato:legge:2007-10-17;189"
       }
     ],
     "007G0206": [
@@ -46942,12 +46876,6 @@
       {
         "path": "atti/008G0026.md",
         "urn": "urn:nir:stato:legge:2008-01-07;15"
-      }
-    ],
-    "008G0027": [
-      {
-        "path": "atti/008G0027.md",
-        "urn": "urn:nir:stato:legge:2008-01-07;14"
       }
     ],
     "008G0028": [
@@ -53876,6 +53804,12 @@
       {
         "path": "atti/009G0199.md",
         "urn": "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2009-11-12;186"
+      }
+    ],
+    "009G0201": [
+      {
+        "path": "atti/009G0201.md",
+        "urn": "urn:nir:stato:legge:2009-12-31;196"
       }
     ],
     "009G0204": [
@@ -62524,12 +62458,6 @@
         "urn": "urn:nir:stato:decreto.legislativo:2010-10-08;186"
       }
     ],
-    "010G0209": [
-      {
-        "path": "atti/010G0209.md",
-        "urn": "urn:nir:stato:legge:2010-11-04;183"
-      }
-    ],
     "010G0210": [
       {
         "path": "atti/010G0210.md",
@@ -69098,12 +69026,6 @@
       {
         "path": "atti/011G0125.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2011-03-24;83"
-      }
-    ],
-    "011G0126": [
-      {
-        "path": "atti/011G0126.md",
-        "urn": "urn:nir:stato:legge:2011-06-08;85"
       }
     ],
     "011G0127": [
@@ -343336,6 +343258,12 @@
         "urn": "urn:nir:stato:legge:1931-06-18;888"
       }
     ],
+    "031U0889": [
+      {
+        "path": "atti/031U0889.md",
+        "urn": "urn:nir:stato:legge:1931-06-15;889"
+      }
+    ],
     "031U0890": [
       {
         "path": "atti/031U0890.md",
@@ -396910,6 +396838,12 @@
         "urn": "urn:nir:stato:regio.decreto.legge:1935-06-20;1070"
       }
     ],
+    "035U1071": [
+      {
+        "path": "atti/035U1071.md",
+        "urn": "urn:nir:stato:regio.decreto.legge:1935-06-20;1071"
+      }
+    ],
     "035U1072": [
       {
         "path": "atti/035U1072.md",
@@ -441226,12 +441160,6 @@
         "urn": "urn:nir:stato:legge:1938-04-24;734"
       }
     ],
-    "038U0735": [
-      {
-        "path": "atti/038U0735.md",
-        "urn": "urn:nir:stato:legge:1938-05-02;735"
-      }
-    ],
     "038U0736": [
       {
         "path": "atti/038U0736.md",
@@ -468478,12 +468406,6 @@
         "urn": "urn:nir:stato:legge:1940-03-20;233"
       }
     ],
-    "040U0234": [
-      {
-        "path": "atti/040U0234.md",
-        "urn": "urn:nir:stato:legge:1940-03-20;234"
-      }
-    ],
     "040U0235": [
       {
         "path": "atti/040U0235.md",
@@ -493170,12 +493092,6 @@
       {
         "path": "atti/042U0650.md",
         "urn": "urn:nir:stato:regio.decreto:1942-05-12;650"
-      }
-    ],
-    "042U0651": [
-      {
-        "path": "atti/042U0651.md",
-        "urn": "urn:nir:stato:legge:1942-05-07;651"
       }
     ],
     "042U0653": [
@@ -533800,12 +533716,6 @@
         "urn": "urn:nir:stato:legge:1948-12-22;1456"
       }
     ],
-    "048U1457": [
-      {
-        "path": "atti/048U1457.md",
-        "urn": "urn:nir:stato:legge:1948-12-24;1457"
-      }
-    ],
     "048U1458": [
       {
         "path": "atti/048U1458.md",
@@ -535798,12 +535708,6 @@
         "urn": "urn:nir:stato:legge:1949-03-29;162"
       }
     ],
-    "049U0163": [
-      {
-        "path": "atti/049U0163.md",
-        "urn": "urn:nir:stato:legge:1949-03-26;163"
-      }
-    ],
     "049U0164": [
       {
         "path": "atti/049U0164.md",
@@ -537214,12 +537118,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-03;501"
       }
     ],
-    "049U0502": [
-      {
-        "path": "atti/049U0502.md",
-        "urn": "urn:nir:stato:legge:1949-07-29;502"
-      }
-    ],
     "049U0504": [
       {
         "path": "atti/049U0504.md",
@@ -537356,12 +537254,6 @@
       {
         "path": "atti/049U0534.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-26;534"
-      }
-    ],
-    "049U0535": [
-      {
-        "path": "atti/049U0535.md",
-        "urn": "urn:nir:stato:legge:1949-08-03;535"
       }
     ],
     "049U0537": [
@@ -538940,18 +538832,6 @@
       {
         "path": "atti/049U0919.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1949-11-09;919"
-      }
-    ],
-    "049U0927": [
-      {
-        "path": "atti/049U0927.md",
-        "urn": "urn:nir:stato:legge:1949-12-23;927"
-      }
-    ],
-    "049U0928": [
-      {
-        "path": "atti/049U0928.md",
-        "urn": "urn:nir:stato:legge:1949-12-23;928"
       }
     ],
     "049U0929": [
@@ -554080,12 +553960,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1951-09-16;1036"
       }
     ],
-    "051U1037": [
-      {
-        "path": "atti/051U1037.md",
-        "urn": "urn:nir:stato:legge:1951-09-05;1037"
-      }
-    ],
     "051U1038": [
       {
         "path": "atti/051U1038.md",
@@ -554630,12 +554504,6 @@
       {
         "path": "atti/051U1162.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1951-10-01;1162"
-      }
-    ],
-    "051U1164": [
-      {
-        "path": "atti/051U1164.md",
-        "urn": "urn:nir:stato:legge:1951-10-27;1164"
       }
     ],
     "051U1165": [
@@ -559958,12 +559826,6 @@
       {
         "path": "atti/052U0426.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1952-03-27;426"
-      }
-    ],
-    "052U0427": [
-      {
-        "path": "atti/052U0427.md",
-        "urn": "urn:nir:stato:legge:1952-05-08;427"
       }
     ],
     "052U0428": [
@@ -588196,12 +588058,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1953-10-06;919"
       }
     ],
-    "053U0920": [
-      {
-        "path": "atti/053U0920.md",
-        "urn": "urn:nir:stato:legge:1953-12-18;920"
-      }
-    ],
     "053U0921": [
       {
         "path": "atti/053U0921.md",
@@ -595570,12 +595426,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1954-09-26;1126"
       }
     ],
-    "054U1127": [
-      {
-        "path": "atti/054U1127.md",
-        "urn": "urn:nir:stato:legge:1954-11-22;1127"
-      }
-    ],
     "054U1129": [
       {
         "path": "atti/054U1129.md",
@@ -595820,12 +595670,6 @@
       {
         "path": "atti/054U1179.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1954-11-22;1179"
-      }
-    ],
-    "054U1181": [
-      {
-        "path": "atti/054U1181.md",
-        "urn": "urn:nir:stato:legge:1954-12-20;1181"
       }
     ],
     "054U1182": [
@@ -598280,18 +598124,6 @@
       {
         "path": "atti/055U0050.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1955-02-04;50"
-      }
-    ],
-    "055U0051": [
-      {
-        "path": "atti/055U0051.md",
-        "urn": "urn:nir:stato:legge:1955-02-12;51"
-      }
-    ],
-    "055U0052": [
-      {
-        "path": "atti/055U0052.md",
-        "urn": "urn:nir:stato:legge:1955-02-12;52"
       }
     ],
     "055U0054": [
@@ -606796,12 +606628,6 @@
         "urn": "urn:nir:stato:legge:1956-02-20;144"
       }
     ],
-    "056U0145": [
-      {
-        "path": "atti/056U0145.md",
-        "urn": "urn:nir:stato:legge:1956-02-25;145"
-      }
-    ],
     "056U0147": [
       {
         "path": "atti/056U0147.md",
@@ -608258,12 +608084,6 @@
       {
         "path": "atti/056U0422.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-27;422"
-      }
-    ],
-    "056U0424": [
-      {
-        "path": "atti/056U0424.md",
-        "urn": "urn:nir:stato:legge:1956-05-03;424"
       }
     ],
     "056U0426": [
@@ -613234,12 +613054,6 @@
         "urn": "urn:nir:stato:legge:1956-12-04;1437"
       }
     ],
-    "056U1443": [
-      {
-        "path": "atti/056U1443.md",
-        "urn": "urn:nir:stato:legge:1956-12-27;1443"
-      }
-    ],
     "056U1448": [
       {
         "path": "atti/056U1448.md",
@@ -614938,12 +614752,6 @@
         "urn": "urn:nir:stato:legge:1957-02-17;22"
       }
     ],
-    "057U0024": [
-      {
-        "path": "atti/057U0024.md",
-        "urn": "urn:nir:stato:legge:1957-01-29;24"
-      }
-    ],
     "057U0025": [
       {
         "path": "atti/057U0025.md",
@@ -616184,12 +615992,6 @@
       {
         "path": "atti/057U0280.md",
         "urn": "urn:nir:stato:legge:1957-04-25;280"
-      }
-    ],
-    "057U0282": [
-      {
-        "path": "atti/057U0282.md",
-        "urn": "urn:nir:stato:legge:1957-04-25;282"
       }
     ],
     "057U0284": [
@@ -623182,12 +622984,6 @@
         "urn": "urn:nir:stato:legge:1958-03-07;193"
       }
     ],
-    "058U0198": [
-      {
-        "path": "atti/058U0198.md",
-        "urn": "urn:nir:stato:legge:1958-03-04;198"
-      }
-    ],
     "058U0200": [
       {
         "path": "atti/058U0200.md",
@@ -623330,12 +623126,6 @@
       {
         "path": "atti/058U0228.md",
         "urn": "urn:nir:stato:legge:1958-03-18;228"
-      }
-    ],
-    "058U0230": [
-      {
-        "path": "atti/058U0230.md",
-        "urn": "urn:nir:stato:legge:1958-03-06;230"
       }
     ],
     "058U0231": [
@@ -623600,12 +623390,6 @@
       {
         "path": "atti/058U0312.md",
         "urn": "urn:nir:stato:legge:1958-03-21;312"
-      }
-    ],
-    "058U0313": [
-      {
-        "path": "atti/058U0313.md",
-        "urn": "urn:nir:stato:legge:1958-03-21;313"
       }
     ],
     "058U0315": [
@@ -631408,12 +631192,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-15;457"
       }
     ],
-    "059U0459": [
-      {
-        "path": "atti/059U0459.md",
-        "urn": "urn:nir:stato:legge:1959-07-10;459"
-      }
-    ],
     "059U0460": [
       {
         "path": "atti/059U0460.md",
@@ -632492,12 +632270,6 @@
       {
         "path": "atti/059U0701.md",
         "urn": "urn:nir:stato:legge:1959-07-24;701"
-      }
-    ],
-    "059U0702": [
-      {
-        "path": "atti/059U0702.md",
-        "urn": "urn:nir:stato:legge:1959-07-30;702"
       }
     ],
     "059U0703": [
@@ -634958,12 +634730,6 @@
       {
         "path": "atti/059U1151.md",
         "urn": "urn:nir:stato:legge:1959-12-24;1151"
-      }
-    ],
-    "059U1153": [
-      {
-        "path": "atti/059U1153.md",
-        "urn": "urn:nir:stato:legge:1959-12-24;1153"
       }
     ],
     "059U1154": [
@@ -640604,12 +640370,6 @@
       {
         "path": "atti/060U0165.md",
         "urn": "urn:nir:stato:legge:1960-02-26;165"
-      }
-    ],
-    "060U0169": [
-      {
-        "path": "atti/060U0169.md",
-        "urn": "urn:nir:stato:legge:1960-03-03;169"
       }
     ],
     "060U0170": [
@@ -656110,12 +655870,6 @@
         "urn": "urn:nir:stato:legge:1961-07-26;711"
       }
     ],
-    "061U0713": [
-      {
-        "path": "atti/061U0713.md",
-        "urn": "urn:nir:stato:legge:1961-07-26;713"
-      }
-    ],
     "061U0715": [
       {
         "path": "atti/061U0715.md",
@@ -663128,12 +662882,6 @@
       {
         "path": "atti/061U9209.md",
         "urn": "urn:nir:stato:regio.decreto:1861-12-08;408"
-      }
-    ],
-    "062U0003": [
-      {
-        "path": "atti/062U0003.md",
-        "urn": "urn:nir:stato:legge:1962-01-25;3"
       }
     ],
     "062U0006": [
@@ -673224,12 +672972,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1962-07-24;1343"
       }
     ],
-    "062U1344": [
-      {
-        "path": "atti/062U1344.md",
-        "urn": "urn:nir:stato:legge:1962-08-16;1344"
-      }
-    ],
     "062U1345": [
       {
         "path": "atti/062U1345.md",
@@ -674370,12 +674112,6 @@
         "urn": "urn:nir:stato:legge:1962-11-05;1607"
       }
     ],
-    "062U1608": [
-      {
-        "path": "atti/062U1608.md",
-        "urn": "urn:nir:stato:legge:1962-11-06;1608"
-      }
-    ],
     "062U1609": [
       {
         "path": "atti/062U1609.md",
@@ -674542,6 +674278,12 @@
       {
         "path": "atti/062U1642.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1962-11-05;1642"
+      }
+    ],
+    "062U1643": [
+      {
+        "path": "atti/062U1643.md",
+        "urn": "urn:nir:stato:legge:1962-12-06;1643"
       }
     ],
     "062U1644": [
@@ -675568,12 +675310,6 @@
       {
         "path": "atti/062U1862.md",
         "urn": "urn:nir:stato:legge:1962-12-12;1862"
-      }
-    ],
-    "062U1863": [
-      {
-        "path": "atti/062U1863.md",
-        "urn": "urn:nir:stato:legge:1962-12-17;1863"
       }
     ],
     "062U1865": [
@@ -677466,12 +677202,6 @@
         "urn": "urn:nir:stato:legge.costituzionale:1963-12-27;3"
       }
     ],
-    "063U0002": [
-      {
-        "path": "atti/063U0002.md",
-        "urn": "urn:nir:stato:legge:1963-01-23;2"
-      }
-    ],
     "063U0004": [
       {
         "path": "atti/063U0004.md",
@@ -677860,12 +677590,6 @@
       {
         "path": "atti/063U0127.md",
         "urn": "urn:nir:stato:legge:1963-02-03;127"
-      }
-    ],
-    "063U0129": [
-      {
-        "path": "atti/063U0129.md",
-        "urn": "urn:nir:stato:legge:1963-02-04;129"
       }
     ],
     "063U0130": [
@@ -678610,12 +678334,6 @@
       {
         "path": "atti/063U0304.md",
         "urn": "urn:nir:stato:legge:1963-02-18;304"
-      }
-    ],
-    "063U0305": [
-      {
-        "path": "atti/063U0305.md",
-        "urn": "urn:nir:stato:legge:1963-02-21;305"
       }
     ],
     "063U0308": [
@@ -699718,12 +699436,6 @@
         "urn": "urn:nir:stato:legge:1964-12-05;1267"
       }
     ],
-    "064U1268": [
-      {
-        "path": "atti/064U1268.md",
-        "urn": "urn:nir:stato:legge:1964-12-05;1268"
-      }
-    ],
     "064U1269": [
       {
         "path": "atti/064U1269.md",
@@ -705796,12 +705508,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1965-02-04;152"
       }
     ],
-    "065U0158": [
-      {
-        "path": "atti/065U0158.md",
-        "urn": "urn:nir:stato:legge:1965-03-11;158"
-      }
-    ],
     "065U0159": [
       {
         "path": "atti/065U0159.md",
@@ -709708,12 +709414,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1965-07-22;880"
       }
     ],
-    "065U0883": [
-      {
-        "path": "atti/065U0883.md",
-        "urn": "urn:nir:stato:legge:1965-07-13;883"
-      }
-    ],
     "065U0884": [
       {
         "path": "atti/065U0884.md",
@@ -709742,12 +709442,6 @@
       {
         "path": "atti/065U0888.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-11;888"
-      }
-    ],
-    "065U0891": [
-      {
-        "path": "atti/065U0891.md",
-        "urn": "urn:nir:stato:legge:1965-07-13;891"
       }
     ],
     "065U0892": [
@@ -721398,12 +721092,6 @@
       {
         "path": "atti/066U0585.md",
         "urn": "urn:nir:stato:legge:1966-07-25;585"
-      }
-    ],
-    "066U0586": [
-      {
-        "path": "atti/066U0586.md",
-        "urn": "urn:nir:stato:legge:1966-07-25;586"
       }
     ],
     "066U0587": [
@@ -742202,12 +741890,6 @@
         "urn": "urn:nir:stato:legge:1968-01-19;28"
       }
     ],
-    "068U0029": [
-      {
-        "path": "atti/068U0029.md",
-        "urn": "urn:nir:stato:legge:1968-01-23;29"
-      }
-    ],
     "068U0030": [
       {
         "path": "atti/068U0030.md",
@@ -743058,12 +742740,6 @@
       {
         "path": "atti/068U0248.md",
         "urn": "urn:nir:stato:legge:1968-03-12;248"
-      }
-    ],
-    "068U0249": [
-      {
-        "path": "atti/068U0249.md",
-        "urn": "urn:nir:stato:legge:1968-03-18;249"
       }
     ],
     "068U0250": [
@@ -771320,12 +770996,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1970-04-11;280"
       }
     ],
-    "070U0282": [
-      {
-        "path": "atti/070U0282.md",
-        "urn": "urn:nir:stato:legge:1970-05-21;282"
-      }
-    ],
     "070U0283": [
       {
         "path": "atti/070U0283.md",
@@ -788108,11 +787778,7 @@
     ],
     "071U0602": [
       {
-        "path": "atti/071U0602-9f84f4cd9b4e.md",
-        "urn": "urn:nir:stato:legge:1971-07-04;602"
-      },
-      {
-        "path": "atti/071U0602-aae69e511285.md",
+        "path": "atti/071U0602.md",
         "urn": "urn:nir:stato:regio.decreto:1871-08-05;602"
       }
     ],
@@ -789532,12 +789198,6 @@
         "urn": "urn:nir:stato:legge:1971-08-14;819"
       }
     ],
-    "071U0825": [
-      {
-        "path": "atti/071U0825.md",
-        "urn": "urn:nir:stato:legge:1971-10-09;825"
-      }
-    ],
     "071U0826": [
       {
         "path": "atti/071U0826.md",
@@ -790664,12 +790324,6 @@
       {
         "path": "atti/071U1033.md",
         "urn": "urn:nir:stato:legge:1971-12-03;1033"
-      }
-    ],
-    "071U1036": [
-      {
-        "path": "atti/071U1036.md",
-        "urn": "urn:nir:stato:legge:1971-12-06;1036"
       }
     ],
     "071U1038": [
@@ -805088,12 +804742,6 @@
         "urn": "urn:nir:stato:legge:1973-06-18;475"
       }
     ],
-    "073U0477": [
-      {
-        "path": "atti/073U0477.md",
-        "urn": "urn:nir:stato:legge:1973-07-30;477"
-      }
-    ],
     "073U0478": [
       {
         "path": "atti/073U0478.md",
@@ -806826,12 +806474,6 @@
       {
         "path": "atti/073U0827.md",
         "urn": "urn:nir:stato:legge:1973-11-26;827"
-      }
-    ],
-    "073U0830": [
-      {
-        "path": "atti/073U0830.md",
-        "urn": "urn:nir:stato:legge:1973-12-20;830"
       }
     ],
     "073U0831": [
@@ -812570,12 +812212,6 @@
         "urn": "urn:nir:stato:legge:1974-04-03;107"
       }
     ],
-    "074U0108": [
-      {
-        "path": "atti/074U0108.md",
-        "urn": "urn:nir:stato:legge:1974-04-03;108"
-      }
-    ],
     "074U0109": [
       {
         "path": "atti/074U0109.md",
@@ -812652,12 +812288,6 @@
       {
         "path": "atti/074U0122.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1974-03-30;122"
-      }
-    ],
-    "074U0123": [
-      {
-        "path": "atti/074U0123.md",
-        "urn": "urn:nir:stato:legge:1974-04-10;123"
       }
     ],
     "074U0125": [
@@ -824400,12 +824030,6 @@
       {
         "path": "atti/075U0747.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-30;747"
-      }
-    ],
-    "075U0748": [
-      {
-        "path": "atti/075U0748.md",
-        "urn": "urn:nir:stato:legge:1975-11-26;748"
       }
     ],
     "075U0750": [
@@ -844340,12 +843964,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-05;662"
       }
     ],
-    "077U0664": [
-      {
-        "path": "atti/077U0664.md",
-        "urn": "urn:nir:stato:legge:1977-08-08;664"
-      }
-    ],
     "077U0665": [
       {
         "path": "atti/077U0665.md",
@@ -845466,12 +845084,6 @@
       {
         "path": "atti/077U0874.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1977-10-07;874"
-      }
-    ],
-    "077U0875": [
-      {
-        "path": "atti/077U0875.md",
-        "urn": "urn:nir:stato:legge:1977-11-29;875"
       }
     ],
     "077U0877": [
@@ -853268,12 +852880,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-15;404"
       }
     ],
-    "078U0405": [
-      {
-        "path": "atti/078U0405.md",
-        "urn": "urn:nir:stato:legge:1978-08-03;405"
-      }
-    ],
     "078U0406": [
       {
         "path": "atti/078U0406.md",
@@ -854750,12 +854356,6 @@
         "urn": "urn:nir:stato:legge:1978-10-18;681"
       }
     ],
-    "078U0682": [
-      {
-        "path": "atti/078U0682.md",
-        "urn": "urn:nir:stato:legge:1978-10-25;682"
-      }
-    ],
     "078U0685": [
       {
         "path": "atti/078U0685.md",
@@ -855486,12 +855086,6 @@
       {
         "path": "atti/078U0832.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-02;832"
-      }
-    ],
-    "078U0835": [
-      {
-        "path": "atti/078U0835.md",
-        "urn": "urn:nir:stato:legge:1978-12-06;835"
       }
     ],
     "078U0838": [
@@ -872156,12 +871750,6 @@
         "urn": "urn:nir:stato:decreto.legge:1980-02-15;27"
       }
     ],
-    "080U0028": [
-      {
-        "path": "atti/080U0028.md",
-        "urn": "urn:nir:stato:legge:1980-02-21;28"
-      }
-    ],
     "080U0030": [
       {
         "path": "atti/080U0030.md",
@@ -873096,12 +872684,6 @@
       {
         "path": "atti/080U0241.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1980-04-14;241"
-      }
-    ],
-    "080U0242": [
-      {
-        "path": "atti/080U0242.md",
-        "urn": "urn:nir:stato:legge:1980-05-23;242"
       }
     ],
     "080U0244": [
@@ -886412,11 +885994,7 @@
     ],
     "081U0453": [
       {
-        "path": "atti/081U0453-f56209713a7d.md",
-        "urn": "urn:nir:stato:legge:1981-08-05;453"
-      },
-      {
-        "path": "atti/081U0453-cd206147ad45.md",
+        "path": "atti/081U0453.md",
         "urn": "urn:nir:stato:regio.decreto:1881-10-02;453"
       }
     ],
@@ -887156,12 +886734,8 @@
     ],
     "081U0533": [
       {
-        "path": "atti/081U0533-0aabeedc5aa1.md",
+        "path": "atti/081U0533.md",
         "urn": "urn:nir:stato:legge:1881-12-25;533"
-      },
-      {
-        "path": "atti/081U0533-6e19b0613ef1.md",
-        "urn": "urn:nir:stato:legge:1981-09-23;533"
       }
     ],
     "081U0534": [
@@ -888126,6 +887700,12 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1981-04-30;688"
       }
     ],
+    "081U0689": [
+      {
+        "path": "atti/081U0689.md",
+        "urn": "urn:nir:stato:legge:1981-11-24;689"
+      }
+    ],
     "081U0691": [
       {
         "path": "atti/081U0691.md",
@@ -888388,12 +887968,6 @@
       {
         "path": "atti/081U0742.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-25;742"
-      }
-    ],
-    "081U0743": [
-      {
-        "path": "atti/081U0743.md",
-        "urn": "urn:nir:stato:legge:1981-12-18;743"
       }
     ],
     "081U0744": [
@@ -891004,12 +890578,6 @@
       {
         "path": "atti/082U0041.md",
         "urn": "urn:nir:stato:legge:1982-02-17;41"
-      }
-    ],
-    "082U0042": [
-      {
-        "path": "atti/082U0042.md",
-        "urn": "urn:nir:stato:legge:1982-02-09;42"
       }
     ],
     "082U0045": [
@@ -925008,12 +924576,6 @@
         "urn": "urn:nir:stato:legge:1985-07-24;410"
       }
     ],
-    "085U0412": [
-      {
-        "path": "atti/085U0412.md",
-        "urn": "urn:nir:stato:legge:1985-08-08;412"
-      }
-    ],
     "085U0414": [
       {
         "path": "atti/085U0414.md",
@@ -936946,12 +936508,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-07-19;655"
       }
     ],
-    "086U0657": [
-      {
-        "path": "atti/086U0657.md",
-        "urn": "urn:nir:stato:legge:1986-10-04;657"
-      }
-    ],
     "086U0658": [
       {
         "path": "atti/086U0658.md",
@@ -937982,12 +937538,6 @@
       {
         "path": "atti/086U0860.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-12;860"
-      }
-    ],
-    "086U0861": [
-      {
-        "path": "atti/086U0861.md",
-        "urn": "urn:nir:stato:legge:1986-12-12;861"
       }
     ],
     "086U0862": [
@@ -943676,12 +943226,6 @@
       {
         "path": "atti/087U0079.md",
         "urn": "urn:nir:stato:decreto.legge:1987-03-13;79"
-      }
-    ],
-    "087U0081": [
-      {
-        "path": "atti/087U0081.md",
-        "urn": "urn:nir:stato:legge:1987-02-16;81"
       }
     ],
     "087U0084": [
@@ -958740,12 +958284,6 @@
         "urn": "urn:nir:stato:decreto.legge:1989-10-09;337"
       }
     ],
-    "089G0417": [
-      {
-        "path": "atti/089G0417.md",
-        "urn": "urn:nir:stato:legge:1989-10-10;349"
-      }
-    ],
     "089G0418": [
       {
         "path": "atti/089G0418.md",
@@ -966988,12 +966526,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1990-02-21;68"
       }
     ],
-    "090G0106": [
-      {
-        "path": "atti/090G0106.md",
-        "urn": "urn:nir:stato:legge:1990-03-26;69"
-      }
-    ],
     "090G0107": [
       {
         "path": "atti/090G0107.md",
@@ -967014,12 +966546,6 @@
       {
         "path": "atti/090G0112.md",
         "urn": "urn:nir:stato:decreto.legislativo:1990-03-30;76"
-      }
-    ],
-    "090G0113": [
-      {
-        "path": "atti/090G0113.md",
-        "urn": "urn:nir:stato:legge:1990-04-11;73"
       }
     ],
     "090G0114": [
@@ -967370,12 +966896,6 @@
         "urn": "urn:nir:ministero.poste.e.telecomunicazioni:decreto:1990-05-03;160"
       }
     ],
-    "090G0202": [
-      {
-        "path": "atti/090G0202.md",
-        "urn": "urn:nir:stato:legge:1990-06-14;158"
-      }
-    ],
     "090G0203": [
       {
         "path": "atti/090G0203.md",
@@ -967588,12 +967108,6 @@
       {
         "path": "atti/090G0253.md",
         "urn": "urn:nir:stato:decreto.legislativo:1990-07-30;211"
-      }
-    ],
-    "090G0254": [
-      {
-        "path": "atti/090G0254.md",
-        "urn": "urn:nir:stato:legge:1990-07-30;212"
       }
     ],
     "090G0256": [
@@ -968294,12 +967808,6 @@
       {
         "path": "atti/090G0441.md",
         "urn": "urn:nir:stato:decreto.legislativo:1991-01-14;12"
-      }
-    ],
-    "090G0444": [
-      {
-        "path": "atti/090G0444.md",
-        "urn": "urn:nir:stato:legge:1990-12-21;393"
       }
     ],
     "090G0445": [
@@ -974740,12 +974248,6 @@
       {
         "path": "atti/091G0460.md",
         "urn": "urn:nir:stato:legge:1991-12-30;412"
-      }
-    ],
-    "091G0461": [
-      {
-        "path": "atti/091G0461.md",
-        "urn": "urn:nir:stato:legge:1991-12-30;413"
       }
     ],
     "091G0463": [
@@ -981284,12 +980786,6 @@
       {
         "path": "atti/092G0462.md",
         "urn": "urn:nir:stato:decreto.legislativo:1992-10-23;416"
-      }
-    ],
-    "092G0463": [
-      {
-        "path": "atti/092G0463.md",
-        "urn": "urn:nir:stato:legge:1992-10-23;421"
       }
     ],
     "092G0464": [
@@ -989126,12 +988622,6 @@
         "urn": "urn:nir:stato:decreto.legge:1993-12-06;504"
       }
     ],
-    "093G0584": [
-      {
-        "path": "atti/093G0584.md",
-        "urn": "urn:nir:stato:legge:1993-12-06;499"
-      }
-    ],
     "093G0588": [
       {
         "path": "atti/093G0588.md",
@@ -989358,12 +988848,6 @@
       {
         "path": "atti/093G0638.md",
         "urn": "urn:nir:ministero.finanze:decreto:1993-12-28;567"
-      }
-    ],
-    "093G0641": [
-      {
-        "path": "atti/093G0641.md",
-        "urn": "urn:nir:stato:legge:1993-12-28;562"
       }
     ],
     "093G0643": [
@@ -993882,12 +993366,6 @@
       {
         "path": "atti/094G0056.md",
         "urn": "urn:nir:stato:legge:1994-01-17;46"
-      }
-    ],
-    "094G0057": [
-      {
-        "path": "atti/094G0057.md",
-        "urn": "urn:nir:stato:legge:1994-01-17;47"
       }
     ],
     "094G0060": [
@@ -1002074,12 +1001552,6 @@
       {
         "path": "atti/095G0176.md",
         "urn": "urn:nir:stato:legge:1995-04-24;153"
-      }
-    ],
-    "095G0177": [
-      {
-        "path": "atti/095G0177.md",
-        "urn": "urn:nir:stato:legge:1995-04-29;130"
       }
     ],
     "095G0178": [
@@ -1011828,12 +1011300,6 @@
         "urn": "urn:nir:stato:decreto.legge:1996-10-23;554"
       }
     ],
-    "096G0584": [
-      {
-        "path": "atti/096G0584.md",
-        "urn": "urn:nir:stato:legge:1996-10-23;558"
-      }
-    ],
     "096G0585": [
       {
         "path": "atti/096G0585.md",
@@ -1015860,12 +1015326,6 @@
         "urn": "urn:nir:stato:legge:1996-12-31;675"
       }
     ],
-    "097G0005": [
-      {
-        "path": "atti/097G0005.md",
-        "urn": "urn:nir:stato:legge:1996-12-31;676"
-      }
-    ],
     "097G0006": [
       {
         "path": "atti/097G0006.md",
@@ -1016382,12 +1015842,6 @@
         "urn": "urn:nir:stato:legge:1997-03-04;80"
       }
     ],
-    "097G0099": [
-      {
-        "path": "atti/097G0099.md",
-        "urn": "urn:nir:stato:legge:1997-03-15;59"
-      }
-    ],
     "097G0102": [
       {
         "path": "atti/097G0102.md",
@@ -1016482,12 +1015936,6 @@
       {
         "path": "atti/097G0122.md",
         "urn": "urn:nir:ministero.finanze:decreto:1997-02-25;90"
-      }
-    ],
-    "097G0124": [
-      {
-        "path": "atti/097G0124.md",
-        "urn": "urn:nir:stato:legge:1997-04-03;94"
       }
     ],
     "097G0125": [
@@ -1017284,12 +1016732,6 @@
       {
         "path": "atti/097G0291.md",
         "urn": "urn:nir:stato:legge:1997-07-31;259"
-      }
-    ],
-    "097G0292": [
-      {
-        "path": "atti/097G0292.md",
-        "urn": "urn:nir:stato:legge:1997-07-16;254"
       }
     ],
     "097G0293": [
@@ -1018136,12 +1017578,6 @@
       {
         "path": "atti/097G0466.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-10-09;431"
-      }
-    ],
-    "097G0467": [
-      {
-        "path": "atti/097G0467.md",
-        "urn": "urn:nir:stato:legge:1997-12-17;433"
       }
     ],
     "097G0468": [
@@ -1023298,12 +1022734,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-07-08;277"
       }
     ],
-    "098G0342": [
-      {
-        "path": "atti/098G0342.md",
-        "urn": "urn:nir:stato:legge:1998-08-03;288"
-      }
-    ],
     "098G0345": [
       {
         "path": "atti/098G0345.md",
@@ -1023520,12 +1022950,6 @@
         "urn": "urn:nir:ministero.universita.e.ricerca.scientifica.e.tecnologica:decreto:1998-08-05;340"
       }
     ],
-    "098G0392": [
-      {
-        "path": "atti/098G0392.md",
-        "urn": "urn:nir:stato:legge:1998-09-28;337"
-      }
-    ],
     "098G0393": [
       {
         "path": "atti/098G0393.md",
@@ -1023572,12 +1022996,6 @@
       {
         "path": "atti/098G0400.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-09-14;348"
-      }
-    ],
-    "098G0401": [
-      {
-        "path": "atti/098G0401.md",
-        "urn": "urn:nir:stato:legge:1998-10-06;344"
       }
     ],
     "098G0402": [
@@ -1023910,12 +1023328,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-11-09;424"
       }
     ],
-    "098G0472": [
-      {
-        "path": "atti/098G0472.md",
-        "urn": "urn:nir:stato:legge:1998-11-30;419"
-      }
-    ],
     "098G0474": [
       {
         "path": "atti/098G0474.md",
@@ -1024076,12 +1023488,6 @@
       {
         "path": "atti/098G0509.md",
         "urn": "urn:nir:stato:decreto.legislativo:1998-11-23;460"
-      }
-    ],
-    "098G0513": [
-      {
-        "path": "atti/098G0513.md",
-        "urn": "urn:nir:stato:legge:1998-12-23;461"
       }
     ],
     "098G0514": [
@@ -1027380,11 +1026786,7 @@
     ],
     "099G0008": [
       {
-        "path": "atti/099G0008-6c8da32b4474.md",
-        "urn": "urn:nir:stato:legge:1998-12-31;485"
-      },
-      {
-        "path": "atti/099G0008-31e3b14efb9a.md",
+        "path": "atti/099G0008.md",
         "urn": "urn:nir:stato:legge:1999-12-21;515"
       }
     ],
@@ -1028338,12 +1027740,6 @@
         "urn": "urn:nir:stato:decreto.legislativo:1999-05-04;138"
       }
     ],
-    "099G0220": [
-      {
-        "path": "atti/099G0220.md",
-        "urn": "urn:nir:stato:legge:1999-05-17;144"
-      }
-    ],
     "099G0221": [
       {
         "path": "atti/099G0221.md",
@@ -1028418,12 +1027814,6 @@
       {
         "path": "atti/099G0235.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-04-27;158"
-      }
-    ],
-    "099G0237": [
-      {
-        "path": "atti/099G0237.md",
-        "urn": "urn:nir:stato:legge:1999-05-05;155"
       }
     ],
     "099G0239": [
@@ -1028846,12 +1028236,6 @@
         "urn": "urn:nir:ministero.interno:decreto:1999-05-26;243"
       }
     ],
-    "099G0321": [
-      {
-        "path": "atti/099G0321.md",
-        "urn": "urn:nir:stato:legge:1999-07-29;241"
-      }
-    ],
     "099G0322": [
       {
         "path": "atti/099G0322.md",
@@ -1028958,12 +1028342,6 @@
       {
         "path": "atti/099G0339.md",
         "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-03-08;275"
-      }
-    ],
-    "099G0340": [
-      {
-        "path": "atti/099G0340.md",
-        "urn": "urn:nir:stato:legge:1999-07-28;266"
       }
     ],
     "099G0341": [
@@ -1029984,12 +1029362,6 @@
       {
         "path": "atti/099G0545.md",
         "urn": "urn:nir:ministero.trasporti.e.navigazione:decreto:1999-10-05;478"
-      }
-    ],
-    "099G0547": [
-      {
-        "path": "atti/099G0547.md",
-        "urn": "urn:nir:stato:legge:1999-11-24;468"
       }
     ],
     "099G0548": [
@@ -1038788,12 +1038160,6 @@
         "urn": "urn:nir:stato:decreto.legislativo:2015-06-26;105"
       }
     ],
-    "15G00122": [
-      {
-        "path": "atti/15G00122.md",
-        "urn": "urn:nir:stato:legge:2015-07-13;107"
-      }
-    ],
     "15G00123": [
       {
         "path": "atti/15G00123.md",
@@ -1040900,12 +1040266,6 @@
         "urn": "urn:nir:stato:decreto.legislativo:2017-03-15;32"
       }
     ],
-    "17G00047": [
-      {
-        "path": "atti/17G00047.md",
-        "urn": "urn:nir:stato:legge:2017-03-15;33"
-      }
-    ],
     "17G00048": [
       {
         "path": "atti/17G00048.md",
@@ -1042794,12 +1042154,6 @@
       {
         "path": "atti/19G00027.md",
         "urn": "urn:nir:stato:decreto.legislativo:2019-02-13;19"
-      }
-    ],
-    "19G00028": [
-      {
-        "path": "atti/19G00028.md",
-        "urn": "urn:nir:stato:legge:2019-03-08;20"
       }
     ],
     "19G00030": [
@@ -1046330,12 +1045684,6 @@
         "urn": "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2022-08-01;133"
       }
     ],
-    "22G00139": [
-      {
-        "path": "atti/22G00139.md",
-        "urn": "urn:nir:stato:legge:2022-08-03;129"
-      }
-    ],
     "22G00140": [
       {
         "path": "atti/22G00140.md",
@@ -1048964,18 +1048312,6 @@
         "urn": "urn:nir:stato:decreto.legislativo:2025-03-28;43"
       }
     ],
-    "25G00061": [
-      {
-        "path": "atti/25G00061.md",
-        "urn": "urn:nir:stato:legge:2025-04-15;50"
-      }
-    ],
-    "25G00064": [
-      {
-        "path": "atti/25G00064.md",
-        "urn": "urn:nir:stato:legge:2025-04-15;51"
-      }
-    ],
     "25G00065": [
       {
         "path": "atti/25G00065.md",
@@ -1049232,12 +1048568,6 @@
       {
         "path": "atti/25G00124.md",
         "urn": "urn:nir:stato:decreto.legislativo:2025-08-01;123"
-      }
-    ],
-    "25G00125": [
-      {
-        "path": "atti/25G00125.md",
-        "urn": "urn:nir:stato:legge:2025-08-08;120"
       }
     ],
     "25G00126": [
@@ -1410626,7 +1409956,7 @@
     },
     "urn:nir:stato:legge:1881-12-25;533": {
       "codice_redazionale": "081U0533",
-      "path": "atti/081U0533-0aabeedc5aa1.md"
+      "path": "atti/081U0533.md"
     },
     "urn:nir:stato:legge:1881-12-25;534": {
       "codice_redazionale": "081U0534",
@@ -1441916,6 +1441246,10 @@
       "codice_redazionale": "031U0991",
       "path": "atti/031U0991.md"
     },
+    "urn:nir:stato:legge:1931-06-15;889": {
+      "codice_redazionale": "031U0889",
+      "path": "atti/031U0889.md"
+    },
     "urn:nir:stato:legge:1931-06-18;1000": {
       "codice_redazionale": "031U1000",
       "path": "atti/031U1000.md"
@@ -1454736,10 +1454070,6 @@
       "codice_redazionale": "038U0711",
       "path": "atti/038U0711.md"
     },
-    "urn:nir:stato:legge:1938-05-02;735": {
-      "codice_redazionale": "038U0735",
-      "path": "atti/038U0735.md"
-    },
     "urn:nir:stato:legge:1938-05-02;864": {
       "codice_redazionale": "038U0864",
       "path": "atti/038U0864.md"
@@ -1458567,10 +1457897,6 @@
     "urn:nir:stato:legge:1940-03-20;233": {
       "codice_redazionale": "040U0233",
       "path": "atti/040U0233.md"
-    },
-    "urn:nir:stato:legge:1940-03-20;234": {
-      "codice_redazionale": "040U0234",
-      "path": "atti/040U0234.md"
     },
     "urn:nir:stato:legge:1940-03-20;235": {
       "codice_redazionale": "040U0235",
@@ -1463576,10 +1462902,6 @@
       "codice_redazionale": "042U0622",
       "path": "atti/042U0622.md"
     },
-    "urn:nir:stato:legge:1942-05-07;651": {
-      "codice_redazionale": "042U0651",
-      "path": "atti/042U0651.md"
-    },
     "urn:nir:stato:legge:1942-05-07;853": {
       "codice_redazionale": "042U0853",
       "path": "atti/042U0853.md"
@@ -1465696,10 +1465018,6 @@
       "codice_redazionale": "048U1456",
       "path": "atti/048U1456.md"
     },
-    "urn:nir:stato:legge:1948-12-24;1457": {
-      "codice_redazionale": "048U1457",
-      "path": "atti/048U1457.md"
-    },
     "urn:nir:stato:legge:1948-12-29;1515": {
       "codice_redazionale": "048U1515",
       "path": "atti/048U1515.md"
@@ -1465771,10 +1465089,6 @@
     "urn:nir:stato:legge:1949-03-19;120": {
       "codice_redazionale": "049U0120",
       "path": "atti/049U0120.md"
-    },
-    "urn:nir:stato:legge:1949-03-26;163": {
-      "codice_redazionale": "049U0163",
-      "path": "atti/049U0163.md"
     },
     "urn:nir:stato:legge:1949-03-29;162": {
       "codice_redazionale": "049U0162",
@@ -1465932,10 +1465246,6 @@
       "codice_redazionale": "049U0481",
       "path": "atti/049U0481.md"
     },
-    "urn:nir:stato:legge:1949-07-29;502": {
-      "codice_redazionale": "049U0502",
-      "path": "atti/049U0502.md"
-    },
     "urn:nir:stato:legge:1949-07-29;504": {
       "codice_redazionale": "049U0504",
       "path": "atti/049U0504.md"
@@ -1465971,10 +1465281,6 @@
     "urn:nir:stato:legge:1949-08-03;522": {
       "codice_redazionale": "049U0522",
       "path": "atti/049U0522.md"
-    },
-    "urn:nir:stato:legge:1949-08-03;535": {
-      "codice_redazionale": "049U0535",
-      "path": "atti/049U0535.md"
     },
     "urn:nir:stato:legge:1949-08-20;700": {
       "codice_redazionale": "049U0700",
@@ -1466067,14 +1465373,6 @@
     "urn:nir:stato:legge:1949-12-19;957": {
       "codice_redazionale": "049U0957",
       "path": "atti/049U0957.md"
-    },
-    "urn:nir:stato:legge:1949-12-23;927": {
-      "codice_redazionale": "049U0927",
-      "path": "atti/049U0927.md"
-    },
-    "urn:nir:stato:legge:1949-12-23;928": {
-      "codice_redazionale": "049U0928",
-      "path": "atti/049U0928.md"
     },
     "urn:nir:stato:legge:1949-12-23;948": {
       "codice_redazionale": "049U0948",
@@ -1467152,10 +1466450,6 @@
       "codice_redazionale": "051U0950",
       "path": "atti/051U0950.md"
     },
-    "urn:nir:stato:legge:1951-09-05;1037": {
-      "codice_redazionale": "051U1037",
-      "path": "atti/051U1037.md"
-    },
     "urn:nir:stato:legge:1951-10-01;1140": {
       "codice_redazionale": "051U1140",
       "path": "atti/051U1140.md"
@@ -1467219,10 +1466513,6 @@
     "urn:nir:stato:legge:1951-10-24;1187": {
       "codice_redazionale": "051U1187",
       "path": "atti/051U1187.md"
-    },
-    "urn:nir:stato:legge:1951-10-27;1164": {
-      "codice_redazionale": "051U1164",
-      "path": "atti/051U1164.md"
     },
     "urn:nir:stato:legge:1951-10-27;1337": {
       "codice_redazionale": "051U1337",
@@ -1467727,10 +1467017,6 @@
     "urn:nir:stato:legge:1952-05-05;521": {
       "codice_redazionale": "052U0521",
       "path": "atti/052U0521.md"
-    },
-    "urn:nir:stato:legge:1952-05-08;427": {
-      "codice_redazionale": "052U0427",
-      "path": "atti/052U0427.md"
     },
     "urn:nir:stato:legge:1952-05-13;438": {
       "codice_redazionale": "052U0438",
@@ -1468768,10 +1468054,6 @@
       "codice_redazionale": "053U0953",
       "path": "atti/053U0953.md"
     },
-    "urn:nir:stato:legge:1953-12-18;920": {
-      "codice_redazionale": "053U0920",
-      "path": "atti/053U0920.md"
-    },
     "urn:nir:stato:legge:1953-12-18;921": {
       "codice_redazionale": "053U0921",
       "path": "atti/053U0921.md"
@@ -1469300,10 +1468582,6 @@
       "codice_redazionale": "054U1122",
       "path": "atti/054U1122.md"
     },
-    "urn:nir:stato:legge:1954-11-22;1127": {
-      "codice_redazionale": "054U1127",
-      "path": "atti/054U1127.md"
-    },
     "urn:nir:stato:legge:1954-11-22;1129": {
       "codice_redazionale": "054U1129",
       "path": "atti/054U1129.md"
@@ -1469355,10 +1468633,6 @@
     "urn:nir:stato:legge:1954-12-15;1343": {
       "codice_redazionale": "054U1343",
       "path": "atti/054U1343.md"
-    },
-    "urn:nir:stato:legge:1954-12-20;1181": {
-      "codice_redazionale": "054U1181",
-      "path": "atti/054U1181.md"
     },
     "urn:nir:stato:legge:1954-12-20;1219": {
       "codice_redazionale": "054U1219",
@@ -1469439,14 +1468713,6 @@
     "urn:nir:stato:legge:1955-02-12;43": {
       "codice_redazionale": "055U0043",
       "path": "atti/055U0043.md"
-    },
-    "urn:nir:stato:legge:1955-02-12;51": {
-      "codice_redazionale": "055U0051",
-      "path": "atti/055U0051.md"
-    },
-    "urn:nir:stato:legge:1955-02-12;52": {
-      "codice_redazionale": "055U0052",
-      "path": "atti/055U0052.md"
     },
     "urn:nir:stato:legge:1955-02-27;68": {
       "codice_redazionale": "055U0068",
@@ -1469904,10 +1469170,6 @@
       "codice_redazionale": "056U0121",
       "path": "atti/056U0121.md"
     },
-    "urn:nir:stato:legge:1956-02-25;145": {
-      "codice_redazionale": "056U0145",
-      "path": "atti/056U0145.md"
-    },
     "urn:nir:stato:legge:1956-02-25;147": {
       "codice_redazionale": "056U0147",
       "path": "atti/056U0147.md"
@@ -1469991,10 +1469253,6 @@
     "urn:nir:stato:legge:1956-05-03;402": {
       "codice_redazionale": "056U0402",
       "path": "atti/056U0402.md"
-    },
-    "urn:nir:stato:legge:1956-05-03;424": {
-      "codice_redazionale": "056U0424",
-      "path": "atti/056U0424.md"
     },
     "urn:nir:stato:legge:1956-05-03;487": {
       "codice_redazionale": "056U0487",
@@ -1470376,10 +1469634,6 @@
       "codice_redazionale": "056U1423",
       "path": "atti/056U1423.md"
     },
-    "urn:nir:stato:legge:1956-12-27;1443": {
-      "codice_redazionale": "056U1443",
-      "path": "atti/056U1443.md"
-    },
     "urn:nir:stato:legge:1956-12-27;1449": {
       "codice_redazionale": "056U1449",
       "path": "atti/056U1449.md"
@@ -1470431,10 +1469685,6 @@
     "urn:nir:stato:legge:1957-01-11;5": {
       "codice_redazionale": "057U0005",
       "path": "atti/057U0005.md"
-    },
-    "urn:nir:stato:legge:1957-01-29;24": {
-      "codice_redazionale": "057U0024",
-      "path": "atti/057U0024.md"
     },
     "urn:nir:stato:legge:1957-02-03;16": {
       "codice_redazionale": "057U0016",
@@ -1470587,10 +1469837,6 @@
     "urn:nir:stato:legge:1957-04-25;280": {
       "codice_redazionale": "057U0280",
       "path": "atti/057U0280.md"
-    },
-    "urn:nir:stato:legge:1957-04-25;282": {
-      "codice_redazionale": "057U0282",
-      "path": "atti/057U0282.md"
     },
     "urn:nir:stato:legge:1957-04-25;308": {
       "codice_redazionale": "057U0308",
@@ -1471176,10 +1470422,6 @@
       "codice_redazionale": "058U0180",
       "path": "atti/058U0180.md"
     },
-    "urn:nir:stato:legge:1958-03-04;198": {
-      "codice_redazionale": "058U0198",
-      "path": "atti/058U0198.md"
-    },
     "urn:nir:stato:legge:1958-03-04;261": {
       "codice_redazionale": "058U0261",
       "path": "atti/058U0261.md"
@@ -1471207,10 +1470449,6 @@
     "urn:nir:stato:legge:1958-03-06;192": {
       "codice_redazionale": "058U0192",
       "path": "atti/058U0192.md"
-    },
-    "urn:nir:stato:legge:1958-03-06;230": {
-      "codice_redazionale": "058U0230",
-      "path": "atti/058U0230.md"
     },
     "urn:nir:stato:legge:1958-03-06;247": {
       "codice_redazionale": "058U0247",
@@ -1471375,10 +1470613,6 @@
     "urn:nir:stato:legge:1958-03-21;312": {
       "codice_redazionale": "058U0312",
       "path": "atti/058U0312.md"
-    },
-    "urn:nir:stato:legge:1958-03-21;313": {
-      "codice_redazionale": "058U0313",
-      "path": "atti/058U0313.md"
     },
     "urn:nir:stato:legge:1958-03-21;326": {
       "codice_redazionale": "058U0326",
@@ -1471684,10 +1470918,6 @@
       "codice_redazionale": "059U0490",
       "path": "atti/059U0490.md"
     },
-    "urn:nir:stato:legge:1959-07-10;459": {
-      "codice_redazionale": "059U0459",
-      "path": "atti/059U0459.md"
-    },
     "urn:nir:stato:legge:1959-07-14;494": {
       "codice_redazionale": "059U0494",
       "path": "atti/059U0494.md"
@@ -1471775,10 +1471005,6 @@
     "urn:nir:stato:legge:1959-07-30;694": {
       "codice_redazionale": "059U0694",
       "path": "atti/059U0694.md"
-    },
-    "urn:nir:stato:legge:1959-07-30;702": {
-      "codice_redazionale": "059U0702",
-      "path": "atti/059U0702.md"
     },
     "urn:nir:stato:legge:1959-07-31;617": {
       "codice_redazionale": "059U0617",
@@ -1471879,10 +1471105,6 @@
     "urn:nir:stato:legge:1959-12-24;1151": {
       "codice_redazionale": "059U1151",
       "path": "atti/059U1151.md"
-    },
-    "urn:nir:stato:legge:1959-12-24;1153": {
-      "codice_redazionale": "059U1153",
-      "path": "atti/059U1153.md"
     },
     "urn:nir:stato:legge:1959-12-24;1156": {
       "codice_redazionale": "059U1156",
@@ -1471995,10 +1471217,6 @@
     "urn:nir:stato:legge:1960-02-27;265": {
       "codice_redazionale": "060U0265",
       "path": "atti/060U0265.md"
-    },
-    "urn:nir:stato:legge:1960-03-03;169": {
-      "codice_redazionale": "060U0169",
-      "path": "atti/060U0169.md"
     },
     "urn:nir:stato:legge:1960-03-03;184": {
       "codice_redazionale": "060U0184",
@@ -1472804,10 +1472022,6 @@
       "codice_redazionale": "061U0711",
       "path": "atti/061U0711.md"
     },
-    "urn:nir:stato:legge:1961-07-26;713": {
-      "codice_redazionale": "061U0713",
-      "path": "atti/061U0713.md"
-    },
     "urn:nir:stato:legge:1961-07-26;719": {
       "codice_redazionale": "061U0719",
       "path": "atti/061U0719.md"
@@ -1473111,10 +1472325,6 @@
     "urn:nir:stato:legge:1962-01-25;26": {
       "codice_redazionale": "062U0026",
       "path": "atti/062U0026.md"
-    },
-    "urn:nir:stato:legge:1962-01-25;3": {
-      "codice_redazionale": "062U0003",
-      "path": "atti/062U0003.md"
     },
     "urn:nir:stato:legge:1962-01-26;6": {
       "codice_redazionale": "062U0006",
@@ -1473460,10 +1472670,6 @@
       "codice_redazionale": "062U1341",
       "path": "atti/062U1341.md"
     },
-    "urn:nir:stato:legge:1962-08-16;1344": {
-      "codice_redazionale": "062U1344",
-      "path": "atti/062U1344.md"
-    },
     "urn:nir:stato:legge:1962-08-16;1347": {
       "codice_redazionale": "062U1347",
       "path": "atti/062U1347.md"
@@ -1473551,10 +1472757,6 @@
     "urn:nir:stato:legge:1962-11-05;1695": {
       "codice_redazionale": "062U1695",
       "path": "atti/062U1695.md"
-    },
-    "urn:nir:stato:legge:1962-11-06;1608": {
-      "codice_redazionale": "062U1608",
-      "path": "atti/062U1608.md"
     },
     "urn:nir:stato:legge:1962-11-07;1613": {
       "codice_redazionale": "062U1613",
@@ -1473680,6 +1472882,10 @@
       "codice_redazionale": "062U1682",
       "path": "atti/062U1682.md"
     },
+    "urn:nir:stato:legge:1962-12-06;1643": {
+      "codice_redazionale": "062U1643",
+      "path": "atti/062U1643.md"
+    },
     "urn:nir:stato:legge:1962-12-11;1700": {
       "codice_redazionale": "062U1700",
       "path": "atti/062U1700.md"
@@ -1473699,10 +1472905,6 @@
     "urn:nir:stato:legge:1962-12-12;1862": {
       "codice_redazionale": "062U1862",
       "path": "atti/062U1862.md"
-    },
-    "urn:nir:stato:legge:1962-12-17;1863": {
-      "codice_redazionale": "062U1863",
-      "path": "atti/062U1863.md"
     },
     "urn:nir:stato:legge:1962-12-18;1716": {
       "codice_redazionale": "062U1716",
@@ -1473828,10 +1473030,6 @@
       "codice_redazionale": "063U0023",
       "path": "atti/063U0023.md"
     },
-    "urn:nir:stato:legge:1963-01-23;2": {
-      "codice_redazionale": "063U0002",
-      "path": "atti/063U0002.md"
-    },
     "urn:nir:stato:legge:1963-01-26;31": {
       "codice_redazionale": "063U0031",
       "path": "atti/063U0031.md"
@@ -1473955,10 +1473153,6 @@
     "urn:nir:stato:legge:1963-02-04;120": {
       "codice_redazionale": "063U0120",
       "path": "atti/063U0120.md"
-    },
-    "urn:nir:stato:legge:1963-02-04;129": {
-      "codice_redazionale": "063U0129",
-      "path": "atti/063U0129.md"
     },
     "urn:nir:stato:legge:1963-02-04;95": {
       "codice_redazionale": "063U0095",
@@ -1474151,10 +1473345,6 @@
     "urn:nir:stato:legge:1963-02-21;264": {
       "codice_redazionale": "063U0264",
       "path": "atti/063U0264.md"
-    },
-    "urn:nir:stato:legge:1963-02-21;305": {
-      "codice_redazionale": "063U0305",
-      "path": "atti/063U0305.md"
     },
     "urn:nir:stato:legge:1963-02-21;326": {
       "codice_redazionale": "063U0326",
@@ -1474852,10 +1474042,6 @@
       "codice_redazionale": "064U1267",
       "path": "atti/064U1267.md"
     },
-    "urn:nir:stato:legge:1964-12-05;1268": {
-      "codice_redazionale": "064U1268",
-      "path": "atti/064U1268.md"
-    },
     "urn:nir:stato:legge:1964-12-05;1269": {
       "codice_redazionale": "064U1269",
       "path": "atti/064U1269.md"
@@ -1475031,10 +1474217,6 @@
     "urn:nir:stato:legge:1965-03-11;123": {
       "codice_redazionale": "065U0123",
       "path": "atti/065U0123.md"
-    },
-    "urn:nir:stato:legge:1965-03-11;158": {
-      "codice_redazionale": "065U0158",
-      "path": "atti/065U0158.md"
     },
     "urn:nir:stato:legge:1965-03-11;169": {
       "codice_redazionale": "065U0169",
@@ -1475312,17 +1474494,9 @@
       "codice_redazionale": "065U0874",
       "path": "atti/065U0874.md"
     },
-    "urn:nir:stato:legge:1965-07-13;883": {
-      "codice_redazionale": "065U0883",
-      "path": "atti/065U0883.md"
-    },
     "urn:nir:stato:legge:1965-07-13;884": {
       "codice_redazionale": "065U0884",
       "path": "atti/065U0884.md"
-    },
-    "urn:nir:stato:legge:1965-07-13;891": {
-      "codice_redazionale": "065U0891",
-      "path": "atti/065U0891.md"
     },
     "urn:nir:stato:legge:1965-07-13;892": {
       "codice_redazionale": "065U0892",
@@ -1475883,10 +1475057,6 @@
     "urn:nir:stato:legge:1966-07-25;585": {
       "codice_redazionale": "066U0585",
       "path": "atti/066U0585.md"
-    },
-    "urn:nir:stato:legge:1966-07-25;586": {
-      "codice_redazionale": "066U0586",
-      "path": "atti/066U0586.md"
     },
     "urn:nir:stato:legge:1966-07-25;602": {
       "codice_redazionale": "066U0602",
@@ -1476976,10 +1476146,6 @@
       "codice_redazionale": "068U0022",
       "path": "atti/068U0022.md"
     },
-    "urn:nir:stato:legge:1968-01-23;29": {
-      "codice_redazionale": "068U0029",
-      "path": "atti/068U0029.md"
-    },
     "urn:nir:stato:legge:1968-01-23;30": {
       "codice_redazionale": "068U0030",
       "path": "atti/068U0030.md"
@@ -1477311,10 +1476477,6 @@
     "urn:nir:stato:legge:1968-03-18;241": {
       "codice_redazionale": "068U0241",
       "path": "atti/068U0241.md"
-    },
-    "urn:nir:stato:legge:1968-03-18;249": {
-      "codice_redazionale": "068U0249",
-      "path": "atti/068U0249.md"
     },
     "urn:nir:stato:legge:1968-03-18;250": {
       "codice_redazionale": "068U0250",
@@ -1478408,10 +1477570,6 @@
       "codice_redazionale": "070U0335",
       "path": "atti/070U0335.md"
     },
-    "urn:nir:stato:legge:1970-05-21;282": {
-      "codice_redazionale": "070U0282",
-      "path": "atti/070U0282.md"
-    },
     "urn:nir:stato:legge:1970-05-22;312": {
       "codice_redazionale": "070U0312",
       "path": "atti/070U0312.md"
@@ -1478912,10 +1478070,6 @@
       "codice_redazionale": "071U0427",
       "path": "atti/071U0427-843b6b961027.md"
     },
-    "urn:nir:stato:legge:1971-07-04;602": {
-      "codice_redazionale": "071U0602",
-      "path": "atti/071U0602-9f84f4cd9b4e.md"
-    },
     "urn:nir:stato:legge:1971-07-06;540": {
       "codice_redazionale": "071U0540",
       "path": "atti/071U0540-3905566d6b4f.md"
@@ -1479032,10 +1478186,6 @@
       "codice_redazionale": "071U0819",
       "path": "atti/071U0819.md"
     },
-    "urn:nir:stato:legge:1971-10-09;825": {
-      "codice_redazionale": "071U0825",
-      "path": "atti/071U0825.md"
-    },
     "urn:nir:stato:legge:1971-10-09;908": {
       "codice_redazionale": "071U0908",
       "path": "atti/071U0908.md"
@@ -1479151,10 +1478301,6 @@
     "urn:nir:stato:legge:1971-12-03;1103": {
       "codice_redazionale": "071U1103",
       "path": "atti/071U1103.md"
-    },
-    "urn:nir:stato:legge:1971-12-06;1036": {
-      "codice_redazionale": "071U1036",
-      "path": "atti/071U1036.md"
     },
     "urn:nir:stato:legge:1971-12-06;1038": {
       "codice_redazionale": "071U1038",
@@ -1479712,10 +1478858,6 @@
       "codice_redazionale": "073U0438",
       "path": "atti/073U0438.md"
     },
-    "urn:nir:stato:legge:1973-07-30;477": {
-      "codice_redazionale": "073U0477",
-      "path": "atti/073U0477.md"
-    },
     "urn:nir:stato:legge:1973-07-30;480": {
       "codice_redazionale": "073U0480",
       "path": "atti/073U0480.md"
@@ -1480020,10 +1479162,6 @@
       "codice_redazionale": "073U0824",
       "path": "atti/073U0824.md"
     },
-    "urn:nir:stato:legge:1973-12-20;830": {
-      "codice_redazionale": "073U0830",
-      "path": "atti/073U0830.md"
-    },
     "urn:nir:stato:legge:1973-12-20;831": {
       "codice_redazionale": "073U0831",
       "path": "atti/073U0831.md"
@@ -1480204,17 +1479342,9 @@
       "codice_redazionale": "074U0107",
       "path": "atti/074U0107.md"
     },
-    "urn:nir:stato:legge:1974-04-03;108": {
-      "codice_redazionale": "074U0108",
-      "path": "atti/074U0108.md"
-    },
     "urn:nir:stato:legge:1974-04-08;194": {
       "codice_redazionale": "074U0194",
       "path": "atti/074U0194.md"
-    },
-    "urn:nir:stato:legge:1974-04-10;123": {
-      "codice_redazionale": "074U0123",
-      "path": "atti/074U0123.md"
     },
     "urn:nir:stato:legge:1974-04-11;179": {
       "codice_redazionale": "074U0179",
@@ -1481011,10 +1480141,6 @@
     "urn:nir:stato:legge:1975-11-26;622": {
       "codice_redazionale": "075U0622",
       "path": "atti/075U0622.md"
-    },
-    "urn:nir:stato:legge:1975-11-26;748": {
-      "codice_redazionale": "075U0748",
-      "path": "atti/075U0748.md"
     },
     "urn:nir:stato:legge:1975-11-28;624": {
       "codice_redazionale": "075U0624",
@@ -1482020,10 +1481146,6 @@
       "codice_redazionale": "077U0639",
       "path": "atti/077U0639.md"
     },
-    "urn:nir:stato:legge:1977-08-08;664": {
-      "codice_redazionale": "077U0664",
-      "path": "atti/077U0664.md"
-    },
     "urn:nir:stato:legge:1977-08-08;674": {
       "codice_redazionale": "077U0674",
       "path": "atti/077U0674.md"
@@ -1482099,10 +1481221,6 @@
     "urn:nir:stato:legge:1977-11-29;864": {
       "codice_redazionale": "077U0864",
       "path": "atti/077U0864.md"
-    },
-    "urn:nir:stato:legge:1977-11-29;875": {
-      "codice_redazionale": "077U0875",
-      "path": "atti/077U0875.md"
     },
     "urn:nir:stato:legge:1977-12-01;870": {
       "codice_redazionale": "077U0870",
@@ -1482516,10 +1481634,6 @@
       "codice_redazionale": "078U0439",
       "path": "atti/078U0439.md"
     },
-    "urn:nir:stato:legge:1978-08-03;405": {
-      "codice_redazionale": "078U0405",
-      "path": "atti/078U0405.md"
-    },
     "urn:nir:stato:legge:1978-08-04;429": {
       "codice_redazionale": "078U0429",
       "path": "atti/078U0429.md"
@@ -1482596,10 +1481710,6 @@
       "codice_redazionale": "078U0641",
       "path": "atti/078U0641.md"
     },
-    "urn:nir:stato:legge:1978-10-25;682": {
-      "codice_redazionale": "078U0682",
-      "path": "atti/078U0682.md"
-    },
     "urn:nir:stato:legge:1978-10-25;690": {
       "codice_redazionale": "078U0690",
       "path": "atti/078U0690.md"
@@ -1482643,10 +1481753,6 @@
     "urn:nir:stato:legge:1978-12-06;827": {
       "codice_redazionale": "078U0827",
       "path": "atti/078U0827.md"
-    },
-    "urn:nir:stato:legge:1978-12-06;835": {
-      "codice_redazionale": "078U0835",
-      "path": "atti/078U0835.md"
     },
     "urn:nir:stato:legge:1978-12-14;798": {
       "codice_redazionale": "078U0798",
@@ -1482992,10 +1482098,6 @@
       "codice_redazionale": "080U0060",
       "path": "atti/080U0060.md"
     },
-    "urn:nir:stato:legge:1980-02-21;28": {
-      "codice_redazionale": "080U0028",
-      "path": "atti/080U0028.md"
-    },
     "urn:nir:stato:legge:1980-02-29;31": {
       "codice_redazionale": "080U0031",
       "path": "atti/080U0031.md"
@@ -1483103,10 +1482205,6 @@
     "urn:nir:stato:legge:1980-05-23;234": {
       "codice_redazionale": "080U0234",
       "path": "atti/080U0234.md"
-    },
-    "urn:nir:stato:legge:1980-05-23;242": {
-      "codice_redazionale": "080U0242",
-      "path": "atti/080U0242.md"
     },
     "urn:nir:stato:legge:1980-05-23;289": {
       "codice_redazionale": "080U0289",
@@ -1483716,10 +1482814,6 @@
       "codice_redazionale": "081U0440",
       "path": "atti/081U0440-e0627e137bad.md"
     },
-    "urn:nir:stato:legge:1981-08-05;453": {
-      "codice_redazionale": "081U0453",
-      "path": "atti/081U0453-f56209713a7d.md"
-    },
     "urn:nir:stato:legge:1981-08-05;500": {
       "codice_redazionale": "081U0500",
       "path": "atti/081U0500-c09fe9ce0426.md"
@@ -1483751,10 +1482845,6 @@
     "urn:nir:stato:legge:1981-08-10;490": {
       "codice_redazionale": "081U0490",
       "path": "atti/081U0490-c5c7f8039b80.md"
-    },
-    "urn:nir:stato:legge:1981-09-23;533": {
-      "codice_redazionale": "081U0533",
-      "path": "atti/081U0533-6e19b0613ef1.md"
     },
     "urn:nir:stato:legge:1981-09-25;534": {
       "codice_redazionale": "081U0534",
@@ -1483832,6 +1482922,10 @@
       "codice_redazionale": "081U0648",
       "path": "atti/081U0648.md"
     },
+    "urn:nir:stato:legge:1981-11-24;689": {
+      "codice_redazionale": "081U0689",
+      "path": "atti/081U0689.md"
+    },
     "urn:nir:stato:legge:1981-11-27;676": {
       "codice_redazionale": "081U0676",
       "path": "atti/081U0676.md"
@@ -1483843,10 +1482937,6 @@
     "urn:nir:stato:legge:1981-12-01;692": {
       "codice_redazionale": "081U0692",
       "path": "atti/081U0692.md"
-    },
-    "urn:nir:stato:legge:1981-12-18;743": {
-      "codice_redazionale": "081U0743",
-      "path": "atti/081U0743.md"
     },
     "urn:nir:stato:legge:1981-12-18;750": {
       "codice_redazionale": "081U0750",
@@ -1483943,10 +1483033,6 @@
     "urn:nir:stato:legge:1982-02-05;25": {
       "codice_redazionale": "082U0025",
       "path": "atti/082U0025.md"
-    },
-    "urn:nir:stato:legge:1982-02-09;42": {
-      "codice_redazionale": "082U0042",
-      "path": "atti/082U0042.md"
     },
     "urn:nir:stato:legge:1982-02-10;38": {
       "codice_redazionale": "082U0038",
@@ -1485448,10 +1484534,6 @@
       "codice_redazionale": "085U0408",
       "path": "atti/085U0408.md"
     },
-    "urn:nir:stato:legge:1985-08-08;412": {
-      "codice_redazionale": "085U0412",
-      "path": "atti/085U0412.md"
-    },
     "urn:nir:stato:legge:1985-08-08;418": {
       "codice_redazionale": "085U0418",
       "path": "atti/085U0418.md"
@@ -1485944,10 +1485026,6 @@
       "codice_redazionale": "086U0592",
       "path": "atti/086U0592.md"
     },
-    "urn:nir:stato:legge:1986-10-04;657": {
-      "codice_redazionale": "086U0657",
-      "path": "atti/086U0657.md"
-    },
     "urn:nir:stato:legge:1986-10-04;686": {
       "codice_redazionale": "086U0686",
       "path": "atti/086U0686.md"
@@ -1486015,10 +1485093,6 @@
     "urn:nir:stato:legge:1986-12-09;896": {
       "codice_redazionale": "086U0896",
       "path": "atti/086U0896.md"
-    },
-    "urn:nir:stato:legge:1986-12-12;861": {
-      "codice_redazionale": "086U0861",
-      "path": "atti/086U0861.md"
     },
     "urn:nir:stato:legge:1986-12-13;877": {
       "codice_redazionale": "086U0877",
@@ -1486111,10 +1485185,6 @@
     "urn:nir:stato:legge:1987-02-16;47": {
       "codice_redazionale": "087U0047",
       "path": "atti/087U0047.md"
-    },
-    "urn:nir:stato:legge:1987-02-16;81": {
-      "codice_redazionale": "087U0081",
-      "path": "atti/087U0081.md"
     },
     "urn:nir:stato:legge:1987-02-16;84": {
       "codice_redazionale": "087U0084",
@@ -1487172,10 +1486242,6 @@
       "codice_redazionale": "089G0433",
       "path": "atti/089G0433.md"
     },
-    "urn:nir:stato:legge:1989-10-10;349": {
-      "codice_redazionale": "089G0417",
-      "path": "atti/089G0417.md"
-    },
     "urn:nir:stato:legge:1989-10-16;350": {
       "codice_redazionale": "089G0427",
       "path": "atti/089G0427.md"
@@ -1487388,10 +1486454,6 @@
       "codice_redazionale": "090G0093",
       "path": "atti/090G0093.md"
     },
-    "urn:nir:stato:legge:1990-03-26;69": {
-      "codice_redazionale": "090G0106",
-      "path": "atti/090G0106.md"
-    },
     "urn:nir:stato:legge:1990-04-05;71": {
       "codice_redazionale": "090G0108",
       "path": "atti/090G0108-97fde28fe4b8.md"
@@ -1487436,10 +1486498,6 @@
       "codice_redazionale": "090G0136",
       "path": "atti/090G0136.md"
     },
-    "urn:nir:stato:legge:1990-04-11;73": {
-      "codice_redazionale": "090G0113",
-      "path": "atti/090G0113.md"
-    },
     "urn:nir:stato:legge:1990-04-24;106": {
       "codice_redazionale": "090G0149",
       "path": "atti/090G0149.md"
@@ -1487479,10 +1486537,6 @@
     "urn:nir:stato:legge:1990-06-08;142": {
       "codice_redazionale": "090G0189",
       "path": "atti/090G0189.md"
-    },
-    "urn:nir:stato:legge:1990-06-14;158": {
-      "codice_redazionale": "090G0202",
-      "path": "atti/090G0202.md"
     },
     "urn:nir:stato:legge:1990-06-20;159": {
       "codice_redazionale": "090G0203",
@@ -1487539,10 +1486593,6 @@
     "urn:nir:stato:legge:1990-07-13;190": {
       "codice_redazionale": "090G0232",
       "path": "atti/090G0232.md"
-    },
-    "urn:nir:stato:legge:1990-07-30;212": {
-      "codice_redazionale": "090G0254",
-      "path": "atti/090G0254.md"
     },
     "urn:nir:stato:legge:1990-07-30;217": {
       "codice_redazionale": "090G0256",
@@ -1487683,10 +1486733,6 @@
     "urn:nir:stato:legge:1990-12-17;383": {
       "codice_redazionale": "090G0437",
       "path": "atti/090G0437.md"
-    },
-    "urn:nir:stato:legge:1990-12-21;393": {
-      "codice_redazionale": "090G0444",
-      "path": "atti/090G0444.md"
     },
     "urn:nir:stato:legge:1990-12-22;402": {
       "codice_redazionale": "090G0451",
@@ -1488116,10 +1487162,6 @@
       "codice_redazionale": "091G0460",
       "path": "atti/091G0460.md"
     },
-    "urn:nir:stato:legge:1991-12-30;413": {
-      "codice_redazionale": "091G0461",
-      "path": "atti/091G0461.md"
-    },
     "urn:nir:stato:legge:1991-12-31;415": {
       "codice_redazionale": "091G0464",
       "path": "atti/091G0464.md"
@@ -1488375,10 +1487417,6 @@
     "urn:nir:stato:legge:1992-10-23;419": {
       "codice_redazionale": "092G0464",
       "path": "atti/092G0464.md"
-    },
-    "urn:nir:stato:legge:1992-10-23;421": {
-      "codice_redazionale": "092G0463",
-      "path": "atti/092G0463.md"
     },
     "urn:nir:stato:legge:1992-10-30;422": {
       "codice_redazionale": "092G0471",
@@ -1488904,10 +1487942,6 @@
       "codice_redazionale": "093G0580",
       "path": "atti/093G0580.md"
     },
-    "urn:nir:stato:legge:1993-12-06;499": {
-      "codice_redazionale": "093G0584",
-      "path": "atti/093G0584.md"
-    },
     "urn:nir:stato:legge:1993-12-06;502": {
       "codice_redazionale": "093G0581",
       "path": "atti/093G0581.md"
@@ -1488940,10 +1487974,6 @@
       "codice_redazionale": "093G0623",
       "path": "atti/093G0623.md"
     },
-    "urn:nir:stato:legge:1993-12-28;562": {
-      "codice_redazionale": "093G0641",
-      "path": "atti/093G0641.md"
-    },
     "urn:nir:stato:legge:1994-01-14;19": {
       "codice_redazionale": "094G0033",
       "path": "atti/094G0033.md"
@@ -1488971,10 +1488001,6 @@
     "urn:nir:stato:legge:1994-01-17;46": {
       "codice_redazionale": "094G0056",
       "path": "atti/094G0056.md"
-    },
-    "urn:nir:stato:legge:1994-01-17;47": {
-      "codice_redazionale": "094G0057",
-      "path": "atti/094G0057.md"
     },
     "urn:nir:stato:legge:1994-01-20;51": {
       "codice_redazionale": "094G0066",
@@ -1489708,10 +1488734,6 @@
       "codice_redazionale": "095G0176",
       "path": "atti/095G0176.md"
     },
-    "urn:nir:stato:legge:1995-04-29;130": {
-      "codice_redazionale": "095G0177",
-      "path": "atti/095G0177.md"
-    },
     "urn:nir:stato:legge:1995-05-05;159": {
       "codice_redazionale": "095G0197",
       "path": "atti/095G0197.md"
@@ -1490284,10 +1489306,6 @@
       "codice_redazionale": "096G0561",
       "path": "atti/096G0561.md"
     },
-    "urn:nir:stato:legge:1996-10-23;558": {
-      "codice_redazionale": "096G0584",
-      "path": "atti/096G0584.md"
-    },
     "urn:nir:stato:legge:1996-10-24;556": {
       "codice_redazionale": "096G0586",
       "path": "atti/096G0586.md"
@@ -1490424,10 +1489442,6 @@
       "codice_redazionale": "097G0004",
       "path": "atti/097G0004.md"
     },
-    "urn:nir:stato:legge:1996-12-31;676": {
-      "codice_redazionale": "097G0005",
-      "path": "atti/097G0005.md"
-    },
     "urn:nir:stato:legge:1996-12-31;677": {
       "codice_redazionale": "097G0006",
       "path": "atti/097G0006.md"
@@ -1490536,10 +1489550,6 @@
       "codice_redazionale": "097G0069",
       "path": "atti/097G0069.md"
     },
-    "urn:nir:stato:legge:1997-03-15;59": {
-      "codice_redazionale": "097G0099",
-      "path": "atti/097G0099.md"
-    },
     "urn:nir:stato:legge:1997-03-25;68": {
       "codice_redazionale": "097G0113",
       "path": "atti/097G0113.md"
@@ -1490551,10 +1489561,6 @@
     "urn:nir:stato:legge:1997-03-28;81": {
       "codice_redazionale": "097G0119",
       "path": "atti/097G0119.md"
-    },
-    "urn:nir:stato:legge:1997-04-03;94": {
-      "codice_redazionale": "097G0124",
-      "path": "atti/097G0124.md"
     },
     "urn:nir:stato:legge:1997-04-07;103": {
       "codice_redazionale": "097G0130",
@@ -1490707,10 +1489713,6 @@
     "urn:nir:stato:legge:1997-07-16;228": {
       "codice_redazionale": "097G0263",
       "path": "atti/097G0263.md"
-    },
-    "urn:nir:stato:legge:1997-07-16;254": {
-      "codice_redazionale": "097G0292",
-      "path": "atti/097G0292.md"
     },
     "urn:nir:stato:legge:1997-07-18;229": {
       "codice_redazionale": "097G0264",
@@ -1490875,10 +1489877,6 @@
     "urn:nir:stato:legge:1997-11-29;410": {
       "codice_redazionale": "097G0448",
       "path": "atti/097G0448.md"
-    },
-    "urn:nir:stato:legge:1997-12-17;433": {
-      "codice_redazionale": "097G0467",
-      "path": "atti/097G0467.md"
     },
     "urn:nir:stato:legge:1997-12-17;434": {
       "codice_redazionale": "097G0471",
@@ -1491216,18 +1490214,6 @@
       "codice_redazionale": "098G0317",
       "path": "atti/098G0317.md"
     },
-    "urn:nir:stato:legge:1998-08-03;288": {
-      "codice_redazionale": "098G0342",
-      "path": "atti/098G0342.md"
-    },
-    "urn:nir:stato:legge:1998-09-28;337": {
-      "codice_redazionale": "098G0392",
-      "path": "atti/098G0392.md"
-    },
-    "urn:nir:stato:legge:1998-10-06;344": {
-      "codice_redazionale": "098G0401",
-      "path": "atti/098G0401.md"
-    },
     "urn:nir:stato:legge:1998-10-13;364": {
       "codice_redazionale": "098G0416",
       "path": "atti/098G0416.md"
@@ -1491247,10 +1490233,6 @@
     "urn:nir:stato:legge:1998-11-27;409": {
       "codice_redazionale": "098G0465",
       "path": "atti/098G0465.md"
-    },
-    "urn:nir:stato:legge:1998-11-30;419": {
-      "codice_redazionale": "098G0472",
-      "path": "atti/098G0472.md"
     },
     "urn:nir:stato:legge:1998-11-30;425": {
       "codice_redazionale": "098G0478",
@@ -1491320,17 +1490302,9 @@
       "codice_redazionale": "098G0503",
       "path": "atti/098G0503.md"
     },
-    "urn:nir:stato:legge:1998-12-23;461": {
-      "codice_redazionale": "098G0513",
-      "path": "atti/098G0513.md"
-    },
     "urn:nir:stato:legge:1998-12-31;476": {
       "codice_redazionale": "099G0015",
       "path": "atti/099G0015.md"
-    },
-    "urn:nir:stato:legge:1998-12-31;485": {
-      "codice_redazionale": "099G0008",
-      "path": "atti/099G0008-6c8da32b4474.md"
     },
     "urn:nir:stato:legge:1999-01-20;9": {
       "codice_redazionale": "099G0045",
@@ -1491492,17 +1490466,9 @@
       "codice_redazionale": "099G0192",
       "path": "atti/099G0192.md"
     },
-    "urn:nir:stato:legge:1999-05-05;155": {
-      "codice_redazionale": "099G0237",
-      "path": "atti/099G0237.md"
-    },
     "urn:nir:stato:legge:1999-05-14;134": {
       "codice_redazionale": "099G0218",
       "path": "atti/099G0218.md"
-    },
-    "urn:nir:stato:legge:1999-05-17;144": {
-      "codice_redazionale": "099G0220",
-      "path": "atti/099G0220.md"
     },
     "urn:nir:stato:legge:1999-05-27;167": {
       "codice_redazionale": "099G0248",
@@ -1491607,14 +1490573,6 @@
     "urn:nir:stato:legge:1999-07-27;262": {
       "codice_redazionale": "099G0336",
       "path": "atti/099G0336.md"
-    },
-    "urn:nir:stato:legge:1999-07-28;266": {
-      "codice_redazionale": "099G0340",
-      "path": "atti/099G0340.md"
-    },
-    "urn:nir:stato:legge:1999-07-29;241": {
-      "codice_redazionale": "099G0321",
-      "path": "atti/099G0321.md"
     },
     "urn:nir:stato:legge:1999-07-30;249": {
       "codice_redazionale": "099G0332",
@@ -1491780,10 +1490738,6 @@
       "codice_redazionale": "099G0513",
       "path": "atti/099G0513.md"
     },
-    "urn:nir:stato:legge:1999-11-24;468": {
-      "codice_redazionale": "099G0547",
-      "path": "atti/099G0547.md"
-    },
     "urn:nir:stato:legge:1999-12-03;453": {
       "codice_redazionale": "099G0532",
       "path": "atti/099G0532.md"
@@ -1491794,7 +1490748,7 @@
     },
     "urn:nir:stato:legge:1999-12-21;515": {
       "codice_redazionale": "099G0008",
-      "path": "atti/099G0008-31e3b14efb9a.md"
+      "path": "atti/099G0008.md"
     },
     "urn:nir:stato:legge:1999-12-21;526": {
       "codice_redazionale": "000G0024",
@@ -1491915,10 +1490869,6 @@
     "urn:nir:stato:legge:2000-03-07;44": {
       "codice_redazionale": "000G0088",
       "path": "atti/000G0088.md"
-    },
-    "urn:nir:stato:legge:2000-03-31;78": {
-      "codice_redazionale": "000G0120",
-      "path": "atti/000G0120.md"
     },
     "urn:nir:stato:legge:2000-04-04;98": {
       "codice_redazionale": "000G0141",
@@ -1492272,10 +1491222,6 @@
       "codice_redazionale": "001G0177",
       "path": "atti/001G0177.md"
     },
-    "urn:nir:stato:legge:2001-03-24;127": {
-      "codice_redazionale": "001G0189",
-      "path": "atti/001G0189.md"
-    },
     "urn:nir:stato:legge:2001-03-27;141": {
       "codice_redazionale": "001G0194",
       "path": "atti/001G0194.md"
@@ -1492464,10 +1491410,6 @@
       "codice_redazionale": "001G0508",
       "path": "atti/001G0508.md"
     },
-    "urn:nir:stato:legge:2001-12-21;443": {
-      "codice_redazionale": "001G0492",
-      "path": "atti/001G0492.md"
-    },
     "urn:nir:stato:legge:2001-12-21;444": {
       "codice_redazionale": "001G0502",
       "path": "atti/001G0502.md"
@@ -1492624,10 +1491566,6 @@
       "codice_redazionale": "002G0168",
       "path": "atti/002G0168.md"
     },
-    "urn:nir:stato:legge:2002-07-06;137": {
-      "codice_redazionale": "002G0159",
-      "path": "atti/002G0159.md"
-    },
     "urn:nir:stato:legge:2002-07-11;140": {
       "codice_redazionale": "002G0172",
       "path": "atti/002G0172.md"
@@ -1492680,17 +1491618,9 @@
       "codice_redazionale": "002G0175",
       "path": "atti/002G0175.md"
     },
-    "urn:nir:stato:legge:2002-07-19;146": {
-      "codice_redazionale": "002G0186",
-      "path": "atti/002G0186.md"
-    },
     "urn:nir:stato:legge:2002-07-29;162": {
       "codice_redazionale": "002G0200",
       "path": "atti/002G0200.md"
-    },
-    "urn:nir:stato:legge:2002-07-30;180": {
-      "codice_redazionale": "002G0211",
-      "path": "atti/002G0211.md"
     },
     "urn:nir:stato:legge:2002-07-31;172": {
       "codice_redazionale": "002G0202",
@@ -1492987,10 +1491917,6 @@
     "urn:nir:stato:legge:2003-06-17;148": {
       "codice_redazionale": "003G0171",
       "path": "atti/003G0171.md"
-    },
-    "urn:nir:stato:legge:2003-06-18;145": {
-      "codice_redazionale": "003G0168",
-      "path": "atti/003G0168.md"
     },
     "urn:nir:stato:legge:2003-06-18;160": {
       "codice_redazionale": "003G0179",
@@ -1493732,10 +1492658,6 @@
       "codice_redazionale": "005G0072",
       "path": "atti/005G0072.md"
     },
-    "urn:nir:stato:legge:2005-03-31;56": {
-      "codice_redazionale": "005G0080",
-      "path": "atti/005G0080.md"
-    },
     "urn:nir:stato:legge:2005-04-06;49": {
       "codice_redazionale": "005G0073",
       "path": "atti/005G0073.md"
@@ -1493879,10 +1492801,6 @@
     "urn:nir:stato:legge:2005-10-17;210": {
       "codice_redazionale": "005G0237",
       "path": "atti/005G0237.md"
-    },
-    "urn:nir:stato:legge:2005-11-04;230": {
-      "codice_redazionale": "005G0225",
-      "path": "atti/005G0225.md"
     },
     "urn:nir:stato:legge:2005-11-11;231": {
       "codice_redazionale": "005G0258",
@@ -1494300,10 +1493218,6 @@
       "codice_redazionale": "007G0082",
       "path": "atti/007G0082.md"
     },
-    "urn:nir:stato:legge:2007-06-20;77": {
-      "codice_redazionale": "007G0095",
-      "path": "atti/007G0095.md"
-    },
     "urn:nir:stato:legge:2007-07-05;87": {
       "codice_redazionale": "007G0105",
       "path": "atti/007G0105.md"
@@ -1494384,10 +1493298,6 @@
       "codice_redazionale": "007G0204",
       "path": "atti/007G0204.md"
     },
-    "urn:nir:stato:legge:2007-10-17;189": {
-      "codice_redazionale": "007G0205",
-      "path": "atti/007G0205.md"
-    },
     "urn:nir:stato:legge:2007-10-25;176": {
       "codice_redazionale": "007G0195",
       "path": "atti/007G0195.md"
@@ -1494443,10 +1493353,6 @@
     "urn:nir:stato:legge:2008-01-07;12": {
       "codice_redazionale": "008G0025",
       "path": "atti/008G0025.md"
-    },
-    "urn:nir:stato:legge:2008-01-07;14": {
-      "codice_redazionale": "008G0027",
-      "path": "atti/008G0027.md"
     },
     "urn:nir:stato:legge:2008-01-07;15": {
       "codice_redazionale": "008G0026",
@@ -1494936,6 +1493842,10 @@
       "codice_redazionale": "009G0204",
       "path": "atti/009G0204.md"
     },
+    "urn:nir:stato:legge:2009-12-31;196": {
+      "codice_redazionale": "009G0201",
+      "path": "atti/009G0201.md"
+    },
     "urn:nir:stato:legge:2010-02-01;13": {
       "codice_redazionale": "010G0024",
       "path": "atti/010G0024.md"
@@ -1495096,10 +1494006,6 @@
       "codice_redazionale": "010G0188",
       "path": "atti/010G0188.md"
     },
-    "urn:nir:stato:legge:2010-11-04;183": {
-      "codice_redazionale": "010G0209",
-      "path": "atti/010G0209.md"
-    },
     "urn:nir:stato:legge:2010-11-04;201": {
       "codice_redazionale": "010G0220",
       "path": "atti/010G0220.md"
@@ -1495207,10 +1494113,6 @@
     "urn:nir:stato:legge:2011-06-03;87": {
       "codice_redazionale": "011G0132",
       "path": "atti/011G0132.md"
-    },
-    "urn:nir:stato:legge:2011-06-08;85": {
-      "codice_redazionale": "011G0126",
-      "path": "atti/011G0126.md"
     },
     "urn:nir:stato:legge:2011-06-14;95": {
       "codice_redazionale": "011G0135",
@@ -1496032,10 +1494934,6 @@
       "codice_redazionale": "15G00127",
       "path": "atti/15G00127.md"
     },
-    "urn:nir:stato:legge:2015-07-13;107": {
-      "codice_redazionale": "15G00122",
-      "path": "atti/15G00122.md"
-    },
     "urn:nir:stato:legge:2015-07-17;109": {
       "codice_redazionale": "15G00123",
       "path": "atti/15G00123.md"
@@ -1496440,10 +1495338,6 @@
       "codice_redazionale": "17G00033",
       "path": "atti/17G00033.md"
     },
-    "urn:nir:stato:legge:2017-03-15;33": {
-      "codice_redazionale": "17G00047",
-      "path": "atti/17G00047.md"
-    },
     "urn:nir:stato:legge:2017-03-16;30": {
       "codice_redazionale": "17G00043",
       "path": "atti/17G00043.md"
@@ -1496703,10 +1495597,6 @@
     "urn:nir:stato:legge:2019-03-08;16": {
       "codice_redazionale": "19G00025",
       "path": "atti/19G00025.md"
-    },
-    "urn:nir:stato:legge:2019-03-08;20": {
-      "codice_redazionale": "19G00028",
-      "path": "atti/19G00028.md"
     },
     "urn:nir:stato:legge:2019-03-28;26": {
       "codice_redazionale": "19G00034",
@@ -1497548,10 +1496438,6 @@
       "codice_redazionale": "22G00104",
       "path": "atti/22G00104.md"
     },
-    "urn:nir:stato:legge:2022-08-03;129": {
-      "codice_redazionale": "22G00139",
-      "path": "atti/22G00139.md"
-    },
     "urn:nir:stato:legge:2022-08-04;122": {
       "codice_redazionale": "22G00127",
       "path": "atti/22G00127.md"
@@ -1498084,14 +1496970,6 @@
       "codice_redazionale": "25G00041",
       "path": "atti/25G00041.md"
     },
-    "urn:nir:stato:legge:2025-04-15;50": {
-      "codice_redazionale": "25G00061",
-      "path": "atti/25G00061.md"
-    },
-    "urn:nir:stato:legge:2025-04-15;51": {
-      "codice_redazionale": "25G00064",
-      "path": "atti/25G00064.md"
-    },
     "urn:nir:stato:legge:2025-04-24;60": {
       "codice_redazionale": "25G00068",
       "path": "atti/25G00068.md"
@@ -1498183,10 +1497061,6 @@
     "urn:nir:stato:legge:2025-08-08;119": {
       "codice_redazionale": "25G00127",
       "path": "atti/25G00127.md"
-    },
-    "urn:nir:stato:legge:2025-08-08;120": {
-      "codice_redazionale": "25G00125",
-      "path": "atti/25G00125.md"
     },
     "urn:nir:stato:legge:2025-09-17;136": {
       "codice_redazionale": "25G00142",
@@ -1527355,6 +1526229,10 @@
     "urn:nir:stato:regio.decreto.legge:1935-06-20;1070": {
       "codice_redazionale": "035U1070",
       "path": "atti/035U1070.md"
+    },
+    "urn:nir:stato:regio.decreto.legge:1935-06-20;1071": {
+      "codice_redazionale": "035U1071",
+      "path": "atti/035U1071.md"
     },
     "urn:nir:stato:regio.decreto.legge:1935-06-20;1117": {
       "codice_redazionale": "035U1117",
@@ -1571094,7 +1569972,7 @@
     },
     "urn:nir:stato:regio.decreto:1871-08-05;602": {
       "codice_redazionale": "071U0602",
-      "path": "atti/071U0602-aae69e511285.md"
+      "path": "atti/071U0602.md"
     },
     "urn:nir:stato:regio.decreto:1871-08-06;401": {
       "codice_redazionale": "071U0401",
@@ -1603406,7 +1602284,7 @@
     },
     "urn:nir:stato:regio.decreto:1881-10-02;453": {
       "codice_redazionale": "081U0453",
-      "path": "atti/081U0453-cd206147ad45.md"
+      "path": "atti/081U0453.md"
     },
     "urn:nir:stato:regio.decreto:1881-10-02;459": {
       "codice_redazionale": "081U0459",
