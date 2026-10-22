@@ -200,7 +200,7 @@
     "unresolved_links": 0,
     "xml_received": 288347
   },
-  "coverage_date": "2026-10-21",
+  "coverage_date": "2026-10-22",
   "errors": [],
   "fallbacks": [
     {
@@ -191326,7 +191326,7 @@
     "atti/99X00801.md": "32df824327458c7c75678b83c2cf492bd38d96dee935483337395b6a22ae53ac",
     "atti/99X03301.md": "9737847d0c5997158132790a77526111e3b2c9a4cfb3e5d712e3a3ecee8500b9"
   },
-  "generated_at": "2026-10-21T09:28:15+00:00",
+  "generated_at": "2026-10-22T09:39:05+00:00",
   "known_gaps": [
     "Le NTC 2018 provengono dal supplemento ufficiale Gazzetta e rappresentano il testo originario; il D.M. 9 marzo 2023 è pubblicato separatamente e non viene presentato come consolidamento"
   ],
