@@ -3868,6 +3868,12 @@
         "urn": "urn:nir:stato:legge:2000-08-10;229"
       }
     ],
+    "000G0283": [
+      {
+        "path": "atti/000G0283.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-06-30;230"
+      }
+    ],
     "000G0284": [
       {
         "path": "atti/000G0284.md",
@@ -666684,12 +666690,12 @@
     ],
     "062U0557": [
       {
-        "path": "atti/062U0557-b90138a4ccad.md",
-        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;557"
-      },
-      {
         "path": "atti/062U0557-48c937b3bbc4.md",
         "urn": "urn:nir:stato:legge:1862-04-16;557"
+      },
+      {
+        "path": "atti/062U0557-b90138a4ccad.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;557"
       }
     ],
     "062U0558": [
@@ -685530,12 +685536,12 @@
     ],
     "063U1343": [
       {
-        "path": "atti/063U1343-5bdb664c1aae.md",
-        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-02-14;1343"
-      },
-      {
         "path": "atti/063U1343-3810ba309c47.md",
         "urn": "urn:nir:stato:regio.decreto:1863-06-21;1343"
+      },
+      {
+        "path": "atti/063U1343-5bdb664c1aae.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-02-14;1343"
       }
     ],
     "063U1344": [
@@ -686190,12 +686196,12 @@
     ],
     "063U1409": [
       {
-        "path": "atti/063U1409-cae083606dae.md",
-        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409"
-      },
-      {
         "path": "atti/063U1409-5b917ed01d16.md",
         "urn": "urn:nir:stato:legge:1863-08-15;1409"
+      },
+      {
+        "path": "atti/063U1409-cae083606dae.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409"
       }
     ],
     "063U1410": [
@@ -796620,32 +796626,32 @@
     ],
     "072U0640": [
       {
-        "path": "atti/072U0640-66588701e562.md",
-        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640"
-      },
-      {
         "path": "atti/072U0640-fc1e370f60da.md",
         "urn": "urn:nir:stato:regio.decreto:1872-01-04;640"
+      },
+      {
+        "path": "atti/072U0640-66588701e562.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640"
       }
     ],
     "072U0641": [
       {
-        "path": "atti/072U0641-73d345af552a.md",
-        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641"
-      },
-      {
         "path": "atti/072U0641-7f89d478ed02.md",
         "urn": "urn:nir:stato:regio.decreto:1872-01-07;641"
+      },
+      {
+        "path": "atti/072U0641-73d345af552a.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641"
       }
     ],
     "072U0642": [
       {
-        "path": "atti/072U0642-96d4750f0bb2.md",
-        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642"
-      },
-      {
         "path": "atti/072U0642-c1b7b78ff67b.md",
         "urn": "urn:nir:stato:legge:1872-01-04;642"
+      },
+      {
+        "path": "atti/072U0642-96d4750f0bb2.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642"
       }
     ],
     "072U0643": [
@@ -796912,12 +796918,12 @@
     ],
     "072U0670": [
       {
-        "path": "atti/072U0670-4bb73f995414.md",
-        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-31;670"
-      },
-      {
         "path": "atti/072U0670-4f520618ed52.md",
         "urn": "urn:nir:stato:regio.decreto:1872-02-06;670"
+      },
+      {
+        "path": "atti/072U0670-4bb73f995414.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-31;670"
       }
     ],
     "072U0671": [
@@ -797698,12 +797704,12 @@
     ],
     "072U0749": [
       {
-        "path": "atti/072U0749-ffb11b20ea28.md",
-        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-23;749"
-      },
-      {
         "path": "atti/072U0749-ea6e217473c9.md",
         "urn": "urn:nir:stato:regio.decreto:1872-03-17;749"
+      },
+      {
+        "path": "atti/072U0749-ffb11b20ea28.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-23;749"
       }
     ],
     "072U0750": [
@@ -799798,12 +799804,12 @@
     ],
     "072U0967": [
       {
-        "path": "atti/072U0967-ed9b5266724d.md",
-        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-10;967"
-      },
-      {
         "path": "atti/072U0967-84f3ba53a68f.md",
         "urn": "urn:nir:stato:regio.decreto:1872-08-11;967"
+      },
+      {
+        "path": "atti/072U0967-ed9b5266724d.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-10;967"
       }
     ],
     "072U0968": [
@@ -907034,12 +907040,12 @@
     ],
     "083U1273": [
       {
-        "path": "atti/083U1273-d820bbffba6e.md",
-        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1983-10-27;1273"
-      },
-      {
         "path": "atti/083U1273-6a2191a7f0fb.md",
         "urn": "urn:nir:stato:regio.decreto:1883-04-01;1273"
+      },
+      {
+        "path": "atti/083U1273-d820bbffba6e.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1983-10-27;1273"
       }
     ],
     "083U1274": [
@@ -967940,12 +967946,12 @@
     ],
     "090G0338": [
       {
-        "path": "atti/090G0338-e1a767b0c078.md",
-        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1990-09-28;316"
-      },
-      {
         "path": "atti/090G0338-d1ef9ee7b5e6.md",
         "urn": "urn:nir:stato:legge:1990-10-10;286"
+      },
+      {
+        "path": "atti/090G0338-e1a767b0c078.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1990-09-28;316"
       }
     ],
     "090G0341": [
@@ -1340677,6 +1340683,10 @@
     "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-06-22;225": {
       "codice_redazionale": "000G0274",
       "path": "atti/000G0274.md"
+    },
+    "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-06-30;230": {
+      "codice_redazionale": "000G0283",
+      "path": "atti/000G0283.md"
     },
     "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-07-07;442": {
       "codice_redazionale": "001G0054",

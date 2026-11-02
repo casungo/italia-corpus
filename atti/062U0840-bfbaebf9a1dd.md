@@ -6,12 +6,12 @@ data: 1962-05-16
 titolo: "Inclusione dell'abitato del comune di Volturino (Foggia), fra quelli da consolidare a cura e spese dello Stato."
 urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-05-16;840
 codice_redazionale: 062U0840
-stato_atto: vigente
+stato_atto: ignoto
 versione_data: null
 entrata_in_vigore: null
 abrogazione_data: null
-fonte_versione: vigente
-vigente: true
+fonte_versione: originale
+vigente: false
 ---
 <a id="art-1" data-akn-name="article"></a>
 ## Art. 1.
