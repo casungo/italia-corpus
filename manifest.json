@@ -337,7 +337,7 @@
     "unresolved_links": 0,
     "xml_received": 288348
   },
-  "coverage_date": "2026-11-02",
+  "coverage_date": "2026-11-04",
   "document_articles": {
     "atti/0000001R.md": 1,
     "atti/0000002R.md": 1,
@@ -252318,7 +252318,7 @@
     "atti/030U1395.md": "9e276c6512c02a30b57a2b58d45cbca89db4068b3da4261c890f5471b4dee2ae",
     "atti/030U1396.md": "f6eb2f1f5de6a90bbfcb6f8d84ffa758a4c83a069c63b3f0e2cd69f488bb3040",
     "atti/030U1397.md": "7cccc228bb187ee55e91bde9dead218f4a2cbf326bfe8c8f1c8931fb6ffbcb40",
-    "atti/030U1398.md": "25c92236ec1451ba9b51eb093d33a73838870101453e98bdd47592872ff0ad46",
+    "atti/030U1398.md": "82f2f393df2f8066bddab0cc1dc7f14cea74fc1f25cabe6fdbfeae84ef25f9d0",
     "atti/030U1399.md": "c850ac9a649d73db8a023a491452dc3d74b1f2b4cc4e0819d86bed9d9e83d503",
     "atti/030U1400.md": "8eeca602db9c1172d57707698b16cfd9e95a16d7ae7bb79fbedf9099d8e3b3b3",
     "atti/030U1401.md": "f7084d5f1c62abf03b4dc381794e5fffce870fad0c59a4534348ca4413d01c26",
@@ -278370,7 +278370,7 @@
     "atti/042U0259.md": "a3d3cc6498c0526d1db2184afd63482329227e3d4eaa8ca46ec828f449e7fafe",
     "atti/042U0260.md": "8ab31420a0a8a9d96026a65506be789b804fa0bad6edee03a3cbdb3d8623b94d",
     "atti/042U0261.md": "9e6735e6ea8f7b1f34ce2d36f92957dc171c113448a3d0b3821496e8fc98d18f",
-    "atti/042U0262.md": "4ec36db69966d56aade4a279b4801d1da847642037e705ad42cc000bfaa79772",
+    "atti/042U0262.md": "2ffac0483fff2f959dbc85474f017102ec799da27d2f28de48f40adabbd7b7b0",
     "atti/042U0263.md": "2df5930fd14041db2d9f785e79534888a367ed775d344d575aeb97f6d3531e5d",
     "atti/042U0264.md": "072c29d50b0807880e929232df4496a6f62145938c76109c6679168f44415ea1",
     "atti/042U0265.md": "a54efc742c8df6014dd207e9dce489c6bdfc4ef8d9b86d467ea4d8a0e53a69e7",
@@ -387577,7 +387577,7 @@
     "atti/99X00801.md": "32df824327458c7c75678b83c2cf492bd38d96dee935483337395b6a22ae53ac",
     "atti/99X03301.md": "9737847d0c5997158132790a77526111e3b2c9a4cfb3e5d712e3a3ecee8500b9"
   },
-  "generated_at": "2026-11-02T13:20:01+00:00",
+  "generated_at": "2026-11-04T13:47:19+00:00",
   "known_gaps": [
     "Le NTC 2018 provengono dal supplemento ufficiale Gazzetta e rappresentano il testo originario; il D.M. 9 marzo 2023 è pubblicato separatamente e non viene presentato come consolidamento"
   ],
