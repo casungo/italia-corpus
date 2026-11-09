@@ -26,9 +26,9 @@
       "xml_received": 1735
     },
     "DL e leggi di conversione": {
-      "articles": 46301,
-      "converted": 9751,
-      "xml_received": 9751
+      "articles": 46304,
+      "converted": 9754,
+      "xml_received": 9754
     },
     "DL proroghe": {
       "articles": 1231,
@@ -41,14 +41,14 @@
       "xml_received": 363
     },
     "DPR": {
-      "articles": 150673,
-      "converted": 47761,
-      "xml_received": 47761
+      "articles": 150676,
+      "converted": 47762,
+      "xml_received": 47762
     },
     "Decreti Legislativi": {
-      "articles": 48900,
-      "converted": 2924,
-      "xml_received": 2924
+      "articles": 49082,
+      "converted": 2937,
+      "xml_received": 2937
     },
     "Decreti legislativi luogotenenziali": {
       "articles": 7133,
@@ -66,9 +66,9 @@
       "xml_received": 7
     },
     "Leggi contenenti deleghe": {
-      "articles": 863,
-      "converted": 79,
-      "xml_received": 79
+      "articles": 875,
+      "converted": 81,
+      "xml_received": 81
     },
     "Leggi costituzionali": {
       "articles": 553,
@@ -76,9 +76,9 @@
       "xml_received": 50
     },
     "Leggi delega e relativi provvedimenti delegati": {
-      "articles": 21299,
-      "converted": 1154,
-      "xml_received": 1154
+      "articles": 21391,
+      "converted": 1167,
+      "xml_received": 1167
     },
     "Leggi di delegazione europea": {
       "articles": 1094,
@@ -86,9 +86,9 @@
       "xml_received": 32
     },
     "Leggi di ratifica": {
-      "articles": 38075,
-      "converted": 2335,
-      "xml_received": 2335
+      "articles": 38086,
+      "converted": 2336,
+      "xml_received": 2336
     },
     "Leggi finanziarie e di bilancio": {
       "articles": 1452,
@@ -111,14 +111,14 @@
       "xml_received": 376
     },
     "Regolamenti governativi": {
-      "articles": 23392,
-      "converted": 1942,
-      "xml_received": 1942
+      "articles": 23395,
+      "converted": 1943,
+      "xml_received": 1943
     },
     "Regolamenti ministeriali": {
-      "articles": 18016,
-      "converted": 2088,
-      "xml_received": 2088
+      "articles": 18028,
+      "converted": 2089,
+      "xml_received": 2089
     },
     "Testi Unici": {
       "articles": 27004,
@@ -127,14 +127,14 @@
     }
   },
   "by_type": {
-    "DECRETO": 2142,
+    "DECRETO": 2143,
     "DECRETO DEL CAPO DEL GOVERNO": 18,
     "DECRETO DEL CAPO PROVVISORIO DELLO STATO": 828,
     "DECRETO DEL DUCE": 4,
     "DECRETO DEL DUCE DEL FASCISMO, CAPO DEL GOVERNO": 36,
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI": 363,
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA": 47761,
-    "DECRETO LEGISLATIVO": 2924,
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA": 47762,
+    "DECRETO LEGISLATIVO": 2937,
     "DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO": 878,
     "DECRETO LEGISLATIVO LUOGOTENENZIALE": 1216,
     "DECRETO LEGISLATIVO PRESIDENZIALE": 2,
@@ -146,7 +146,7 @@
     "DETERMINAZIONE DEL COMMISSARIO PER LA PRODUZIONE BELLICA": 1,
     "DETERMINAZIONE DEL COMMISSARIO PER LE FINANZE": 1,
     "DETERMINAZIONE INTERCOMMISSARIALE": 1,
-    "LEGGE": 23393,
+    "LEGGE": 23400,
     "LEGGE COSTITUZIONALE": 50,
     "ORDINANZA": 2,
     "REGIO DECRETO": 90983,
@@ -321,23 +321,23 @@
     "2023": 175,
     "2024": 161,
     "2025": 154,
-    "2026": 111
+    "2026": 133
   },
   "collections": {
     "downloaded": 25,
     "requested": 23
   },
   "counts": {
-    "acts": 191027,
-    "articles": 938129,
-    "duplicates": 97321,
-    "external_links": 280617,
-    "internal_links": 947545,
+    "acts": 191049,
+    "articles": 938354,
+    "duplicates": 97334,
+    "external_links": 281691,
+    "internal_links": 949778,
     "skipped": 0,
     "unresolved_links": 0,
-    "xml_received": 288348
+    "xml_received": 288383
   },
-  "coverage_date": "2026-11-04",
+  "coverage_date": "2026-11-09",
   "document_articles": {
     "atti/0000001R.md": 1,
     "atti/0000002R.md": 1,
@@ -176792,6 +176792,28 @@
     "atti/26G00179.md": 22,
     "atti/26G00180.md": 1,
     "atti/26G00184.md": 1,
+    "atti/26G00185.md": 2,
+    "atti/26G00187.md": 5,
+    "atti/26G00189.md": 5,
+    "atti/26G00191.md": 4,
+    "atti/26G00192.md": 8,
+    "atti/26G00193.md": 1,
+    "atti/26G00194.md": 1,
+    "atti/26G00196.md": 3,
+    "atti/26G00197.md": 11,
+    "atti/26G00198.md": 3,
+    "atti/26G00200.md": 54,
+    "atti/26G00202.md": 10,
+    "atti/26G00203.md": 16,
+    "atti/26G00204.md": 7,
+    "atti/26G00205.md": 6,
+    "atti/26G00206.md": 4,
+    "atti/26G00207.md": 4,
+    "atti/26G00210.md": 18,
+    "atti/26G00212.md": 1,
+    "atti/26G00213.md": 45,
+    "atti/26G00215.md": 12,
+    "atti/26G00217.md": 5,
     "atti/6100001R.md": 1,
     "atti/6100002R.md": 3,
     "atti/6100005R.md": 1,
@@ -275820,7 +275842,7 @@
     "atti/040U1440.md": "845a25acb759af120cdd3d95299152727ca218b1b0ec908e9ce129879be4553c",
     "atti/040U1441.md": "a056b684a8e8acb66d9f63fd5c76c71f764b0fd766b70a03d1e49386bdf6eda9",
     "atti/040U1442.md": "1288e23a07642bfb905d7011238867843e283467d493639d4d99ba5837832e28",
-    "atti/040U1443.md": "c7d7ffe682db9bc4cbcc697f113472b0020cf9264ac4efb8e68c797fd1de84a1",
+    "atti/040U1443.md": "83ee1d5331c4c4ed2d00163d16c0fc5d55a9b4025785c2732d1e7fe570bcc496",
     "atti/040U1444.md": "c23e03b631efb52da584a0b2c5aa8a0af0607bca93e97a32ec273a4787585d93",
     "atti/040U1445.md": "8d668ae90d2b090173d67766f06b2d2d46562a711059455c4d6205f4ed0e007e",
     "atti/040U1446.md": "d28981f6d95f86d597171be4c2190a8f36fe1353063fe43ff26bbce925366baa",
@@ -276743,7 +276765,7 @@
     "atti/041U0300.md": "58d5d8a1b3b5279a484925d9b9df30384fe8bc9a5c95ca51a9c09b280078c458",
     "atti/041U0301.md": "5c0aa7fce5578a053c7d9f414de71b99dc53994087bab66ea77440743c8784ac",
     "atti/041U0302.md": "7c2adff8aaa32f77ef72a9214e48078e36268d3b4841ddf0049dc6c2074db69f",
-    "atti/041U0303.md": "bfbcac2535e37ccaf591a40ec636c308676e18c16ac26276739da0fc5d34e95d",
+    "atti/041U0303.md": "92b651e0320c32f6d07e94cfb5604dba2374f604f459055a3b63ecf6fb9199f2",
     "atti/041U0304.md": "d8d145800c0fd405a40ea8b4ca3a755adf3778a34048a1ae79a265a1e5823e51",
     "atti/041U0305.md": "8a7887b88c48d95a93d3366771dd047f2bba8c0ea67b20ea2889f3e1ba2b77d1",
     "atti/041U0306.md": "9ec1c1fc0a9e0656cd65527bc9b2005491809d330565a49e4dc2e7d1dab4a179",
@@ -278370,7 +278392,7 @@
     "atti/042U0259.md": "a3d3cc6498c0526d1db2184afd63482329227e3d4eaa8ca46ec828f449e7fafe",
     "atti/042U0260.md": "8ab31420a0a8a9d96026a65506be789b804fa0bad6edee03a3cbdb3d8623b94d",
     "atti/042U0261.md": "9e6735e6ea8f7b1f34ce2d36f92957dc171c113448a3d0b3821496e8fc98d18f",
-    "atti/042U0262.md": "2ffac0483fff2f959dbc85474f017102ec799da27d2f28de48f40adabbd7b7b0",
+    "atti/042U0262.md": "77e908d6c38398e9dc0d639b21db1b793a9f3948f9a65f22d710e6cb90d82f08",
     "atti/042U0263.md": "2df5930fd14041db2d9f785e79534888a367ed775d344d575aeb97f6d3531e5d",
     "atti/042U0264.md": "072c29d50b0807880e929232df4496a6f62145938c76109c6679168f44415ea1",
     "atti/042U0265.md": "a54efc742c8df6014dd207e9dce489c6bdfc4ef8d9b86d467ea4d8a0e53a69e7",
@@ -373002,6 +373024,28 @@
     "atti/26G00179.md": "3ecc7fbcd7cacb766e0a59df0fb1fe3876bf3edeb473df8b67aae0500277d9bc",
     "atti/26G00180.md": "0260a14d62825461bbabc22deb304cbdd844f86868b858c761031b7948ced389",
     "atti/26G00184.md": "b87a65276759dd1728c31b281277f25961fc3b005829d8b541a635f5477bca1f",
+    "atti/26G00185.md": "0322275e75302c53d752b5dd0e745f489149a6f5a21ded40a8910fa09d42b8ed",
+    "atti/26G00187.md": "4d8858f578081f949961d4505945139701431ad91d7becd2f2747551c20bb0f4",
+    "atti/26G00189.md": "98c1dd76335e338991879c537567b0c0efc9b1d2bf08d49f1e2be0e5102422f5",
+    "atti/26G00191.md": "cd4b81d246e9e8479c52a42b5aa05220098671687eada33e886da4a5d9835d58",
+    "atti/26G00192.md": "bfa55ccf155e1567cf8a9c5c17e79dbd01b60b3c90913a5bc1836a6d17e23f09",
+    "atti/26G00193.md": "4d1c9d1c9f0e180450890cddf599f9ca11821f4e850a76e0993754624093629b",
+    "atti/26G00194.md": "a6034e0425c8b99139df55daa61464864b9e43147ed27e620341f5d3c15b2671",
+    "atti/26G00196.md": "d5d1b821f65f5c4a5b4fccb1c8aeae3bc7bc3bcd2b534132e7be12299f62cd46",
+    "atti/26G00197.md": "454f2937c9df360618d20af67cb230cedc33e9207dca12889a31db845c596cd5",
+    "atti/26G00198.md": "e2dd6a2d8d743390315cbcd40e759d7e1ba8357d164a5c1d4a7acad80ba37420",
+    "atti/26G00200.md": "959c85978624f3126c97c97edb25c6703d989cf37a5453a4123d5c1dd16453eb",
+    "atti/26G00202.md": "ec1114f04f8d1f47a7c532ae64e951d417d885dd95b727571d1008e8ef99f926",
+    "atti/26G00203.md": "37f23b15558ea522b5ce634cb585d2d9aa8133ba6328e97defa8909bfe80b389",
+    "atti/26G00204.md": "2b907f264918dfec6770260e1d25b2d5d6fb67df7d74d84d5a7d0f4d5a8bdfcf",
+    "atti/26G00205.md": "91835de3e69cbe6917ca8cbed04f78f0fb766053453cd5277478cb3a5a667c7a",
+    "atti/26G00206.md": "38eeec92da95e386d4184f768ba0de32d8953ecd9c0a48e110d68d33636f9391",
+    "atti/26G00207.md": "976444d5cc34e496b9c00c429e82d385e85e0419c1101f136492e36dad21e46a",
+    "atti/26G00210.md": "6236f6c9df0222246f00bbe592ef9bcfaee08437ebae901d59d27ab6d7da700e",
+    "atti/26G00212.md": "b9a8e66201de630b8d4f0b5dcf2213c536f4930f371b1a2e35ec0412089d4cc1",
+    "atti/26G00213.md": "4261693afd355ac489051a015091e018de43cd37766020c48703f1ca98d07ce0",
+    "atti/26G00215.md": "774ea7b9eeadba582e195cd69f2477912286b1c8784359f534c3847f355b9af6",
+    "atti/26G00217.md": "75a8252f394e9ed2751d20616de60a2fbde15ab68f5c278bcef50133dabeca88",
     "atti/6100001R.md": "508f557f9114efb8568a99d16938ff7cddec5a438a91b842d14808dd0b8bce48",
     "atti/6100002R.md": "8853be6073a2d4f705b92b5cf62a1c4603a71e9790e72691e562fa892c30bd3d",
     "atti/6100005R.md": "cca0ffc762c413bba0469eee25a6f8466ada01cdce7302359c7a6b7ff937aa59",
@@ -387577,7 +387621,7 @@
     "atti/99X00801.md": "32df824327458c7c75678b83c2cf492bd38d96dee935483337395b6a22ae53ac",
     "atti/99X03301.md": "9737847d0c5997158132790a77526111e3b2c9a4cfb3e5d712e3a3ecee8500b9"
   },
-  "generated_at": "2026-11-04T13:47:19+00:00",
+  "generated_at": "2026-11-09T12:44:41+00:00",
   "known_gaps": [
     "Le NTC 2018 provengono dal supplemento ufficiale Gazzetta e rappresentano il testo originario; il D.M. 9 marzo 2023 è pubblicato separatamente e non viene presentato come consolidamento"
   ],

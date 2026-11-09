@@ -1,19 +1,113 @@
 {
-  "added": [],
-  "from": "2026-11-02",
-  "modified": [
+  "added": [
     {
-      "after": "82f2f393df2f8066bddab0cc1dc7f14cea74fc1f25cabe6fdbfeae84ef25f9d0",
-      "before": "25c92236ec1451ba9b51eb093d33a73838870101453e98bdd47592872ff0ad46",
-      "path": "atti/030U1398.md"
+      "path": "atti/26G00185.md",
+      "sha256": "0322275e75302c53d752b5dd0e745f489149a6f5a21ded40a8910fa09d42b8ed"
     },
     {
-      "after": "2ffac0483fff2f959dbc85474f017102ec799da27d2f28de48f40adabbd7b7b0",
-      "before": "4ec36db69966d56aade4a279b4801d1da847642037e705ad42cc000bfaa79772",
+      "path": "atti/26G00187.md",
+      "sha256": "4d8858f578081f949961d4505945139701431ad91d7becd2f2747551c20bb0f4"
+    },
+    {
+      "path": "atti/26G00189.md",
+      "sha256": "98c1dd76335e338991879c537567b0c0efc9b1d2bf08d49f1e2be0e5102422f5"
+    },
+    {
+      "path": "atti/26G00191.md",
+      "sha256": "cd4b81d246e9e8479c52a42b5aa05220098671687eada33e886da4a5d9835d58"
+    },
+    {
+      "path": "atti/26G00192.md",
+      "sha256": "bfa55ccf155e1567cf8a9c5c17e79dbd01b60b3c90913a5bc1836a6d17e23f09"
+    },
+    {
+      "path": "atti/26G00193.md",
+      "sha256": "4d1c9d1c9f0e180450890cddf599f9ca11821f4e850a76e0993754624093629b"
+    },
+    {
+      "path": "atti/26G00194.md",
+      "sha256": "a6034e0425c8b99139df55daa61464864b9e43147ed27e620341f5d3c15b2671"
+    },
+    {
+      "path": "atti/26G00196.md",
+      "sha256": "d5d1b821f65f5c4a5b4fccb1c8aeae3bc7bc3bcd2b534132e7be12299f62cd46"
+    },
+    {
+      "path": "atti/26G00197.md",
+      "sha256": "454f2937c9df360618d20af67cb230cedc33e9207dca12889a31db845c596cd5"
+    },
+    {
+      "path": "atti/26G00198.md",
+      "sha256": "e2dd6a2d8d743390315cbcd40e759d7e1ba8357d164a5c1d4a7acad80ba37420"
+    },
+    {
+      "path": "atti/26G00200.md",
+      "sha256": "959c85978624f3126c97c97edb25c6703d989cf37a5453a4123d5c1dd16453eb"
+    },
+    {
+      "path": "atti/26G00202.md",
+      "sha256": "ec1114f04f8d1f47a7c532ae64e951d417d885dd95b727571d1008e8ef99f926"
+    },
+    {
+      "path": "atti/26G00203.md",
+      "sha256": "37f23b15558ea522b5ce634cb585d2d9aa8133ba6328e97defa8909bfe80b389"
+    },
+    {
+      "path": "atti/26G00204.md",
+      "sha256": "2b907f264918dfec6770260e1d25b2d5d6fb67df7d74d84d5a7d0f4d5a8bdfcf"
+    },
+    {
+      "path": "atti/26G00205.md",
+      "sha256": "91835de3e69cbe6917ca8cbed04f78f0fb766053453cd5277478cb3a5a667c7a"
+    },
+    {
+      "path": "atti/26G00206.md",
+      "sha256": "38eeec92da95e386d4184f768ba0de32d8953ecd9c0a48e110d68d33636f9391"
+    },
+    {
+      "path": "atti/26G00207.md",
+      "sha256": "976444d5cc34e496b9c00c429e82d385e85e0419c1101f136492e36dad21e46a"
+    },
+    {
+      "path": "atti/26G00210.md",
+      "sha256": "6236f6c9df0222246f00bbe592ef9bcfaee08437ebae901d59d27ab6d7da700e"
+    },
+    {
+      "path": "atti/26G00212.md",
+      "sha256": "b9a8e66201de630b8d4f0b5dcf2213c536f4930f371b1a2e35ec0412089d4cc1"
+    },
+    {
+      "path": "atti/26G00213.md",
+      "sha256": "4261693afd355ac489051a015091e018de43cd37766020c48703f1ca98d07ce0"
+    },
+    {
+      "path": "atti/26G00215.md",
+      "sha256": "774ea7b9eeadba582e195cd69f2477912286b1c8784359f534c3847f355b9af6"
+    },
+    {
+      "path": "atti/26G00217.md",
+      "sha256": "75a8252f394e9ed2751d20616de60a2fbde15ab68f5c278bcef50133dabeca88"
+    }
+  ],
+  "from": "2026-11-04",
+  "modified": [
+    {
+      "after": "83ee1d5331c4c4ed2d00163d16c0fc5d55a9b4025785c2732d1e7fe570bcc496",
+      "before": "c7d7ffe682db9bc4cbcc697f113472b0020cf9264ac4efb8e68c797fd1de84a1",
+      "path": "atti/040U1443.md"
+    },
+    {
+      "after": "92b651e0320c32f6d07e94cfb5604dba2374f604f459055a3b63ecf6fb9199f2",
+      "before": "bfbcac2535e37ccaf591a40ec636c308676e18c16ac26276739da0fc5d34e95d",
+      "path": "atti/041U0303.md"
+    },
+    {
+      "after": "77e908d6c38398e9dc0d639b21db1b793a9f3948f9a65f22d710e6cb90d82f08",
+      "before": "2ffac0483fff2f959dbc85474f017102ec799da27d2f28de48f40adabbd7b7b0",
       "path": "atti/042U0262.md"
     }
   ],
   "removed": [],
   "schema_version": 4,
-  "to": "2026-11-04"
+  "to": "2026-11-09"
 }

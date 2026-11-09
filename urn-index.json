@@ -1050414,6 +1050414,138 @@
         "urn": "urn:nir:stato:legge:2026-09-25;166"
       }
     ],
+    "26G00185": [
+      {
+        "path": "atti/26G00185.md",
+        "urn": "urn:nir:stato:legge:2026-09-23;171"
+      }
+    ],
+    "26G00187": [
+      {
+        "path": "atti/26G00187.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-09-11;172"
+      }
+    ],
+    "26G00189": [
+      {
+        "path": "atti/26G00189.md",
+        "urn": "urn:nir:stato:legge:2026-09-29;169"
+      }
+    ],
+    "26G00191": [
+      {
+        "path": "atti/26G00191.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-09-25;176"
+      }
+    ],
+    "26G00192": [
+      {
+        "path": "atti/26G00192.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-09-25;178"
+      }
+    ],
+    "26G00193": [
+      {
+        "path": "atti/26G00193.md",
+        "urn": "urn:nir:stato:legge:2026-10-05;173"
+      }
+    ],
+    "26G00194": [
+      {
+        "path": "atti/26G00194.md",
+        "urn": "urn:nir:stato:legge:2026-10-05;174"
+      }
+    ],
+    "26G00196": [
+      {
+        "path": "atti/26G00196.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-09-25;181"
+      }
+    ],
+    "26G00197": [
+      {
+        "path": "atti/26G00197.md",
+        "urn": "urn:nir:stato:legge:2026-10-01;182"
+      }
+    ],
+    "26G00198": [
+      {
+        "path": "atti/26G00198.md",
+        "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-08-04;183"
+      }
+    ],
+    "26G00200": [
+      {
+        "path": "atti/26G00200.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-10-07;179"
+      }
+    ],
+    "26G00202": [
+      {
+        "path": "atti/26G00202.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-09-25;184"
+      }
+    ],
+    "26G00203": [
+      {
+        "path": "atti/26G00203.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-09-25;186"
+      }
+    ],
+    "26G00204": [
+      {
+        "path": "atti/26G00204.md",
+        "urn": "urn:nir:stato:legge:2026-10-16;187"
+      }
+    ],
+    "26G00205": [
+      {
+        "path": "atti/26G00205.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-10-08;188"
+      }
+    ],
+    "26G00206": [
+      {
+        "path": "atti/26G00206.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-10-07;189"
+      }
+    ],
+    "26G00207": [
+      {
+        "path": "atti/26G00207.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-10-01;191"
+      }
+    ],
+    "26G00210": [
+      {
+        "path": "atti/26G00210.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-10-08;194"
+      }
+    ],
+    "26G00212": [
+      {
+        "path": "atti/26G00212.md",
+        "urn": "urn:nir:stato:legge:2026-10-23;196"
+      }
+    ],
+    "26G00213": [
+      {
+        "path": "atti/26G00213.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-09-28;197"
+      }
+    ],
+    "26G00215": [
+      {
+        "path": "atti/26G00215.md",
+        "urn": "urn:nir:ministero.salute:decreto:2026-08-05;198"
+      }
+    ],
+    "26G00217": [
+      {
+        "path": "atti/26G00217.md",
+        "urn": "urn:nir:stato:decreto.legislativo:2026-10-09;199"
+      }
+    ],
     "6100001R": [
       {
         "path": "atti/6100001R.md",
@@ -1145471,6 +1145603,10 @@
     "urn:nir:ministero.salute:decreto:2025-04-10;94": {
       "codice_redazionale": "25G00098",
       "path": "atti/25G00098.md"
+    },
+    "urn:nir:ministero.salute:decreto:2026-08-05;198": {
+      "codice_redazionale": "26G00215",
+      "path": "atti/26G00215.md"
     },
     "urn:nir:ministero.sanita:decreto.ministeriale:1987-01-24;91": {
       "codice_redazionale": "087U0091",
@@ -1343804,6 +1343940,10 @@
       "codice_redazionale": "26G00171",
       "path": "atti/26G00171.md"
     },
+    "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-08-04;183": {
+      "codice_redazionale": "26G00198",
+      "path": "atti/26G00198.md"
+    },
     "urn:nir:stato:decreto.legge.luogotenenziale:1915-05-30;853": {
       "codice_redazionale": "015U0853",
       "path": "atti/015U0853.md"
@@ -1378363,6 +1378503,58 @@
     "urn:nir:stato:decreto.legislativo:2026-09-09;160": {
       "codice_redazionale": "26G00179",
       "path": "atti/26G00179.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-09-11;172": {
+      "codice_redazionale": "26G00187",
+      "path": "atti/26G00187.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-09-25;176": {
+      "codice_redazionale": "26G00191",
+      "path": "atti/26G00191.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-09-25;178": {
+      "codice_redazionale": "26G00192",
+      "path": "atti/26G00192.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-09-25;181": {
+      "codice_redazionale": "26G00196",
+      "path": "atti/26G00196.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-09-25;184": {
+      "codice_redazionale": "26G00202",
+      "path": "atti/26G00202.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-09-25;186": {
+      "codice_redazionale": "26G00203",
+      "path": "atti/26G00203.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-09-28;197": {
+      "codice_redazionale": "26G00213",
+      "path": "atti/26G00213.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-10-01;191": {
+      "codice_redazionale": "26G00207",
+      "path": "atti/26G00207.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-10-07;179": {
+      "codice_redazionale": "26G00200",
+      "path": "atti/26G00200.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-10-07;189": {
+      "codice_redazionale": "26G00206",
+      "path": "atti/26G00206.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-10-08;188": {
+      "codice_redazionale": "26G00205",
+      "path": "atti/26G00205.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-10-08;194": {
+      "codice_redazionale": "26G00210",
+      "path": "atti/26G00210.md"
+    },
+    "urn:nir:stato:decreto.legislativo:2026-10-09;199": {
+      "codice_redazionale": "26G00217",
+      "path": "atti/26G00217.md"
     },
     "urn:nir:stato:decreto.luogotenenziale:1915-01-03;1170": {
       "codice_redazionale": "015U1170",
@@ -1498568,9 +1498760,37 @@
       "codice_redazionale": "26G00180",
       "path": "atti/26G00180.md"
     },
+    "urn:nir:stato:legge:2026-09-23;171": {
+      "codice_redazionale": "26G00185",
+      "path": "atti/26G00185.md"
+    },
     "urn:nir:stato:legge:2026-09-25;166": {
       "codice_redazionale": "26G00184",
       "path": "atti/26G00184.md"
+    },
+    "urn:nir:stato:legge:2026-09-29;169": {
+      "codice_redazionale": "26G00189",
+      "path": "atti/26G00189.md"
+    },
+    "urn:nir:stato:legge:2026-10-01;182": {
+      "codice_redazionale": "26G00197",
+      "path": "atti/26G00197.md"
+    },
+    "urn:nir:stato:legge:2026-10-05;173": {
+      "codice_redazionale": "26G00193",
+      "path": "atti/26G00193.md"
+    },
+    "urn:nir:stato:legge:2026-10-05;174": {
+      "codice_redazionale": "26G00194",
+      "path": "atti/26G00194.md"
+    },
+    "urn:nir:stato:legge:2026-10-16;187": {
+      "codice_redazionale": "26G00204",
+      "path": "atti/26G00204.md"
+    },
+    "urn:nir:stato:legge:2026-10-23;196": {
+      "codice_redazionale": "26G00212",
+      "path": "atti/26G00212.md"
     },
     "urn:nir:stato:regio.decreto.legge:1913-12-18;1453": {
       "codice_redazionale": "013U1453",
