@@ -337,7 +337,7 @@
     "unresolved_links": 0,
     "xml_received": 288383
   },
-  "coverage_date": "2026-11-09",
+  "coverage_date": "2026-11-11",
   "document_articles": {
     "atti/0000001R.md": 1,
     "atti/0000002R.md": 1,
@@ -276765,7 +276765,7 @@
     "atti/041U0300.md": "58d5d8a1b3b5279a484925d9b9df30384fe8bc9a5c95ca51a9c09b280078c458",
     "atti/041U0301.md": "5c0aa7fce5578a053c7d9f414de71b99dc53994087bab66ea77440743c8784ac",
     "atti/041U0302.md": "7c2adff8aaa32f77ef72a9214e48078e36268d3b4841ddf0049dc6c2074db69f",
-    "atti/041U0303.md": "92b651e0320c32f6d07e94cfb5604dba2374f604f459055a3b63ecf6fb9199f2",
+    "atti/041U0303.md": "59d166d23ba26b89373c3d2153b3b0501dd045b01be62c11946e1e22a0ee5e3c",
     "atti/041U0304.md": "d8d145800c0fd405a40ea8b4ca3a755adf3778a34048a1ae79a265a1e5823e51",
     "atti/041U0305.md": "8a7887b88c48d95a93d3366771dd047f2bba8c0ea67b20ea2889f3e1ba2b77d1",
     "atti/041U0306.md": "9ec1c1fc0a9e0656cd65527bc9b2005491809d330565a49e4dc2e7d1dab4a179",
@@ -387621,7 +387621,7 @@
     "atti/99X00801.md": "32df824327458c7c75678b83c2cf492bd38d96dee935483337395b6a22ae53ac",
     "atti/99X03301.md": "9737847d0c5997158132790a77526111e3b2c9a4cfb3e5d712e3a3ecee8500b9"
   },
-  "generated_at": "2026-11-09T12:44:41+00:00",
+  "generated_at": "2026-11-11T12:56:16+00:00",
   "known_gaps": [
     "Le NTC 2018 provengono dal supplemento ufficiale Gazzetta e rappresentano il testo originario; il D.M. 9 marzo 2023 è pubblicato separatamente e non viene presentato come consolidamento"
   ],
